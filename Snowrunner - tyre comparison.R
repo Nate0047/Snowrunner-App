@@ -20,6 +20,8 @@ library(jsonlite)
 if(!require("odbc")) {install.packages("odbc")}
 library(odbc)
 
+
+# Connect to db ----------------------------------------------------------------
 connection <-
 odbc::dbConnect(odbc::odbc(),
   Driver = "SQL Server Native Client 11.0",
@@ -29,42 +31,63 @@ odbc::dbConnect(odbc::odbc(),
   PWD = "yadda123!"
 )
 
-odbc::dbGetQuery(connection, "select * from Truck")
+# Query db ---------------------------------------------------------------------
+
+# call all truck via stored procedure in db
+SnowrunnerData <- 
+odbc::dbGetQuery(connection,
+                 "Rshiny.GetAllTrucks")
+
+SnowrunnerData %<>%
+  mutate(across(where(is.character), as.factor))
+  
 
 # UI ---------------------------------------------------------------------------
-ui <- shinyUI(
-  
-  fluidPage(
-  
-  # title panel
-  titlePanel("Snowrunner tyre comparison App"),
-  
-  # row with a sidebar
-  sidebarLayout(
-           
-    # sidebar input
-    sidebarPanel(
-      selectInput("Trucks", "Select truck:", choices = testdata$Truck),
-           hr(),
-           helpText("choose your flippin' truck mate!"))
-  ),
-  
-  # main panel for visual
-  mainPanel(
-    plotOutput("truck-tyre-plot")
+ui <- fluidPage(titlePanel("title panel"),
+    
+    sidebarLayout(
+      sidebarPanel(
+        
+        # truck selector
+        selectizeInput(
+          inputId = "TruckName",
+          label = "Truck:",
+          choices = SnowrunnerData$Truck_Name
+        ),
+      
+        # tyre selector
+        selectInput(
+          inputId = "TyreName",
+          label = "Tyre:",
+          choices = NULL,
+          multiple = TRUE
+        )
+        
+      ),
+      
+      mainPanel(
+        # complete with visuals later
+      )
     )
   )
-)
 
 # SERVER -----------------------------------------------------------------------
-server <- shinyServer(function(input, output) {
+server <- function(input, output, session) {
   
-  # generate visual for main panel plot
-  output$truck-tyre-plot <- renderPlot({
+  observeEvent(input$TruckName, {
+
+      updateSelectInput(
+        session,
+        input = "TyreName",
+        label = paste0("Choose tyre:", input$TruckName),
+        choices = SnowrunnerData[SnowrunnerData$Truck_Name %in% input$TruckName,
+                                 "Tyre", drop = TRUE]
+        )
+  })
   
-    # render visual
-    # ???
-})
+
+  session$onSessionEnded(stopApp)
+}
 
 
 # RUN APP ----------------------------------------------------------------------
