@@ -26,11 +26,7 @@ cbPalette <- c("#999999", "#C4A484", "#411900", "#56B4E9", "#009E73", "#F0E442",
 # # Connect to db ----------------------------------------------------------------
 # connection <-
 # odbc::dbConnect(odbc::odbc(),
-#   Driver = "SQL Server Native Client 11.0",
-#   Server = "tcp:turkey-sql.database.windows.net,1433",
-#   Database = "turkey",
-#   UID = "nate",
-#   PWD = "yadda123!"
+#*
 # )
 # 
 # # Query db ---------------------------------------------------------------------
