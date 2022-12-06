@@ -49,25 +49,39 @@ ui <- fluidPage(titlePanel("Snowrunner Tyre Comparison App"),
     sidebarLayout(
       sidebarPanel(
         
-        # truck selector
+        # truck selector1
         selectizeInput(
-          inputId = "TruckName",
+          inputId = "TruckName1",
           label = "Truck:",
           choices = SnowrunnerData$Truck_Name
         ),
       
-        # tyre selector
+        # tyre selector1
         selectInput(
-          inputId = "TyreName",
+          inputId = "TyreName1",
+          label = "Tyre:",
+          choices = NULL,
+          multiple = TRUE
+        ),
+        
+        # truck selector2
+        selectizeInput(
+          inputId = "TruckName2",
+          label = "Truck:",
+          choices = SnowrunnerData$Truck_Name
+        ),
+        
+        # tyre selector2
+        selectInput(
+          inputId = "TyreName2",
           label = "Tyre:",
           choices = NULL,
           multiple = TRUE
         )
-        
       ),
       
       mainPanel(
-         plotOutput("tyrePlot")
+        plotOutput("tyrePlot1")
       )
     )
   )
@@ -75,28 +89,56 @@ ui <- fluidPage(titlePanel("Snowrunner Tyre Comparison App"),
 # SERVER -----------------------------------------------------------------------
 server <- function(input, output, session) {
   
-  observeEvent(input$TruckName, {
+  observeEvent(input$TruckName1, {
 
-      # updating tyre selection
+      # updating tyre selection 1
       updateSelectInput(
         session,
-        input = "TyreName",
-        label = paste0("Choose tyre:", input$TruckName),
-        choices = SnowrunnerData[SnowrunnerData$Truck_Name %in% input$TruckName,
+        input = "TyreName1",
+        label = paste0("Choose tyre:", input$TruckName1),
+        choices = SnowrunnerData[SnowrunnerData$Truck_Name %in% input$TruckName1,
                                  "Tyre", drop = TRUE]
-        )
+      )
+  })
+    
+  observeEvent(input$TruckName2, {
+      # updating tyre selection 2
+      updateSelectInput(
+        session,
+        input = "TyreName2",
+        label = paste0("Choose tyre:", input$TruckName2),
+        choices = SnowrunnerData[SnowrunnerData$Truck_Name %in% input$TruckName2,
+                               "Tyre", drop = TRUE]
+      )
   })
     
       # reactive filtering of dataset for plotting
-      refineTyre <- reactive({
+      refineTyre1 <- reactive({
         SnowrunnerData %>%
-          filter(.$Truck_Name %in% input$TruckName) %>%
-          filter(.$Tyre %in% input$TyreName)
+          filter(.$Truck_Name %in% input$TruckName1) %>%
+          filter(.$Tyre %in% input$TyreName1)
       })
       
       # plotting dataset
-      output$tyrePlot <- renderPlot({
-        ggplot(refineTyre(), aes(x = Tyre, y = Tyre_Coefficient, fill = Tyre_Type)) +
+      output$tyrePlot1 <- renderPlot({
+        ggplot(refineTyre1(), aes(x = Tyre, y = Tyre_Coefficient, fill = Tyre_Type)) +
+          geom_bar(stat = "identity", position = "dodge") +
+          scale_fill_manual(values = cbPalette) +
+          ggtitle("Truck Tyre Comparison Chart") +
+          labs(x = "Selected Tyre(s)", y = "Tyre Coefficient") +
+          guides(fill = guide_legend(title = "Tyre Role"))
+      })
+      
+      # reactive filtering of dataset for plotting
+      refineTyre2 <- reactive({
+        SnowrunnerData %>%
+          filter(.$Truck_Name %in% input$TruckName2) %>%
+          filter(.$Tyre %in% input$TyreName2)
+      })
+      
+      # plotting dataset
+      output$tyrePlot2 <- renderPlot({
+        ggplot(refineTyre2(), aes(x = Tyre, y = Tyre_Coefficient, fill = Tyre_Type)) +
           geom_bar(stat = "identity", position = "dodge") +
           scale_fill_manual(values = cbPalette) +
           ggtitle("Truck Tyre Comparison Chart") +

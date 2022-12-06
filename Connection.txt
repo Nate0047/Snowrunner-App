@@ -1,0 +1,5 @@
+#   Driver = "SQL Server Native Client 11.0",
+#   Server = "tcp:turkey-sql.database.windows.net,1433",
+#   Database = "turkey",
+#   UID = "nate",
+#   PWD = "yadda123!"
