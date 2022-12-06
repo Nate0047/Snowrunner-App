@@ -1,0 +1,2224 @@
+"","Truck_Name","Truck_Role","Tyre","Tyre_Type","Tyre_Coefficient"
+"1","Ford CLT9000","Highway","UHD I","Asphalt",3
+"2","Ford CLT9000","Highway","UHD I","Dirt",1
+"3","Ford CLT9000","Highway","UHD I","Mud",0.4
+"4","Ford CLT9000","Highway","UHD II","Asphalt",3
+"5","Ford CLT9000","Highway","UHD II","Dirt",1.2
+"6","Ford CLT9000","Highway","UHD II","Mud",0.2
+"7","Ford CLT9000","Highway","UHD III","Asphalt",3.2
+"8","Ford CLT9000","Highway","UHD III","Dirt",1
+"9","Ford CLT9000","Highway","UHD III","Mud",0.2
+"10","Ford CLT9000","Highway","UAD I","Asphalt",1.9
+"11","Ford CLT9000","Highway","UAD I","Dirt",1.5
+"12","Ford CLT9000","Highway","UAD I","Mud",1
+"13","Ford CLT9000","Highway","UAD II","Asphalt",1.5
+"14","Ford CLT9000","Highway","UAD II","Dirt",1.5
+"15","Ford CLT9000","Highway","UAD II","Mud",1.2
+"16","Ford CLT9000","Highway","UAD III","Asphalt",1.5
+"17","Ford CLT9000","Highway","UAD III","Dirt",1.7
+"18","Ford CLT9000","Highway","UAD III","Mud",1
+"19","Ford CLT9000","Highway","UAD III Chains","Asphalt",1.2
+"20","Ford CLT9000","Highway","UAD III Chains","Dirt",3
+"21","Ford CLT9000","Highway","UAD III Chains","Mud",1.3
+"22","Ford CLT9000","Highway","UOD I","Asphalt",1
+"23","Ford CLT9000","Highway","UOD I","Dirt",3
+"24","Ford CLT9000","Highway","UOD I","Mud",1.5
+"25","Ford CLT9000","Highway","UOD II","Asphalt",0.8
+"26","Ford CLT9000","Highway","UOD II","Dirt",3
+"27","Ford CLT9000","Highway","UOD II","Mud",1.9
+"28","Ford CLT9000","Highway","UOD III","Asphalt",0.8
+"29","Ford CLT9000","Highway","UOD III","Dirt",3.2
+"30","Ford CLT9000","Highway","UOD III","Mud",1.5
+"31","GMC MH9500","Highway","UHD I","Asphalt",3
+"32","GMC MH9500","Highway","UHD I","Dirt",1
+"33","GMC MH9500","Highway","UHD I","Mud",0.4
+"34","GMC MH9500","Highway","UHD II","Asphalt",3
+"35","GMC MH9500","Highway","UHD II","Dirt",1.2
+"36","GMC MH9500","Highway","UHD II","Mud",0.2
+"37","GMC MH9500","Highway","UHD III","Asphalt",3.2
+"38","GMC MH9500","Highway","UHD III","Dirt",1
+"39","GMC MH9500","Highway","UHD III","Mud",0.2
+"40","GMC MH9500","Highway","UAD I","Asphalt",1.9
+"41","GMC MH9500","Highway","UAD I","Dirt",1.5
+"42","GMC MH9500","Highway","UAD I","Mud",1
+"43","GMC MH9500","Highway","UAD II","Asphalt",1.5
+"44","GMC MH9500","Highway","UAD II","Dirt",1.5
+"45","GMC MH9500","Highway","UAD II","Mud",1.2
+"46","GMC MH9500","Highway","UAD III","Asphalt",1.5
+"47","GMC MH9500","Highway","UAD III","Dirt",1.7
+"48","GMC MH9500","Highway","UAD III","Mud",1
+"49","GMC MH9500","Highway","UAD III Chains","Asphalt",1.2
+"50","GMC MH9500","Highway","UAD III Chains","Dirt",3
+"51","GMC MH9500","Highway","UAD III Chains","Mud",1.3
+"52","GMC MH9500","Highway","UOD I","Asphalt",1
+"53","GMC MH9500","Highway","UOD I","Dirt",3
+"54","GMC MH9500","Highway","UOD I","Mud",1.5
+"55","GMC MH9500","Highway","UOD II","Asphalt",0.8
+"56","GMC MH9500","Highway","UOD II","Dirt",3
+"57","GMC MH9500","Highway","UOD II","Mud",1.9
+"58","GMC MH9500","Highway","UOD III","Asphalt",0.8
+"59","GMC MH9500","Highway","UOD III","Dirt",3.2
+"60","GMC MH9500","Highway","UOD III","Mud",1.5
+"61","International Transtar 4070A","Highway","UHD I","Asphalt",3
+"62","International Transtar 4070A","Highway","UHD I","Dirt",1
+"63","International Transtar 4070A","Highway","UHD I","Mud",0.4
+"64","International Transtar 4070A","Highway","UHD II","Asphalt",3
+"65","International Transtar 4070A","Highway","UHD II","Dirt",1.2
+"66","International Transtar 4070A","Highway","UHD II","Mud",0.2
+"67","International Transtar 4070A","Highway","UHD III","Asphalt",3.2
+"68","International Transtar 4070A","Highway","UHD III","Dirt",1
+"69","International Transtar 4070A","Highway","UHD III","Mud",0.2
+"70","International Transtar 4070A","Highway","UAD I","Asphalt",1.9
+"71","International Transtar 4070A","Highway","UAD I","Dirt",1.5
+"72","International Transtar 4070A","Highway","UAD I","Mud",1
+"73","International Transtar 4070A","Highway","UAD II","Asphalt",1.5
+"74","International Transtar 4070A","Highway","UAD II","Dirt",1.5
+"75","International Transtar 4070A","Highway","UAD II","Mud",1.2
+"76","International Transtar 4070A","Highway","UAD III","Asphalt",1.5
+"77","International Transtar 4070A","Highway","UAD III","Dirt",1.7
+"78","International Transtar 4070A","Highway","UAD III","Mud",1
+"79","International Transtar 4070A","Highway","UAD III Chains","Asphalt",1.2
+"80","International Transtar 4070A","Highway","UAD III Chains","Dirt",3
+"81","International Transtar 4070A","Highway","UAD III Chains","Mud",1.3
+"82","International Transtar 4070A","Highway","UOD I","Asphalt",1
+"83","International Transtar 4070A","Highway","UOD I","Dirt",3
+"84","International Transtar 4070A","Highway","UOD I","Mud",1.5
+"85","International Transtar 4070A","Highway","UOD II","Asphalt",0.8
+"86","International Transtar 4070A","Highway","UOD II","Dirt",3
+"87","International Transtar 4070A","Highway","UOD II","Mud",1.9
+"88","International Transtar 4070A","Highway","UOD III","Asphalt",0.8
+"89","International Transtar 4070A","Highway","UOD III","Dirt",3.2
+"90","International Transtar 4070A","Highway","UOD III","Mud",1.5
+"91","Western Star 57X","Highway","UHD I","Asphalt",3
+"92","Western Star 57X","Highway","UHD I","Dirt",1
+"93","Western Star 57X","Highway","UHD I","Mud",0.4
+"94","Western Star 57X","Highway","UHD II","Asphalt",3
+"95","Western Star 57X","Highway","UHD II","Dirt",1.2
+"96","Western Star 57X","Highway","UHD II","Mud",0.2
+"97","Western Star 57X","Highway","UHD III","Asphalt",3.2
+"98","Western Star 57X","Highway","UHD III","Dirt",1
+"99","Western Star 57X","Highway","UHD III","Mud",0.2
+"100","Western Star 57X","Highway","UAD I","Asphalt",1.9
+"101","Western Star 57X","Highway","UAD I","Dirt",1.5
+"102","Western Star 57X","Highway","UAD I","Mud",1
+"103","Western Star 57X","Highway","UAD II","Asphalt",1.5
+"104","Western Star 57X","Highway","UAD II","Dirt",1.5
+"105","Western Star 57X","Highway","UAD II","Mud",1.2
+"106","Western Star 57X","Highway","UAD III","Asphalt",1.5
+"107","Western Star 57X","Highway","UAD III","Dirt",1.7
+"108","Western Star 57X","Highway","UAD III","Mud",1
+"109","Western Star 57X","Highway","UAD III Chains","Asphalt",1.2
+"110","Western Star 57X","Highway","UAD III Chains","Dirt",3
+"111","Western Star 57X","Highway","UAD III Chains","Mud",1.3
+"112","Western Star 57X","Highway","UOD I","Asphalt",1
+"113","Western Star 57X","Highway","UOD I","Dirt",3
+"114","Western Star 57X","Highway","UOD I","Mud",1.5
+"115","Western Star 57X","Highway","UOD II","Asphalt",0.8
+"116","Western Star 57X","Highway","UOD II","Dirt",3
+"117","Western Star 57X","Highway","UOD II","Mud",1.9
+"118","Western Star 57X","Highway","UOD III","Asphalt",0.8
+"119","Western Star 57X","Highway","UOD III","Dirt",3.2
+"120","Western Star 57X","Highway","UOD III","Mud",1.5
+"121","Caterpillar CT680","Heavy Duty","UHD I","Asphalt",3
+"122","Caterpillar CT680","Heavy Duty","UHD I","Dirt",1
+"123","Caterpillar CT680","Heavy Duty","UHD I","Mud",0.4
+"124","Caterpillar CT680","Heavy Duty","UHD II","Asphalt",3
+"125","Caterpillar CT680","Heavy Duty","UHD II","Dirt",1.2
+"126","Caterpillar CT680","Heavy Duty","UHD II","Mud",0.2
+"127","Caterpillar CT680","Heavy Duty","UHD III","Asphalt",3.2
+"128","Caterpillar CT680","Heavy Duty","UHD III","Dirt",1
+"129","Caterpillar CT680","Heavy Duty","UHD III","Mud",0.2
+"130","Caterpillar CT680","Heavy Duty","UAD I","Asphalt",1.9
+"131","Caterpillar CT680","Heavy Duty","UAD I","Dirt",1.5
+"132","Caterpillar CT680","Heavy Duty","UAD I","Mud",1
+"133","Caterpillar CT680","Heavy Duty","UAD II","Asphalt",1.5
+"134","Caterpillar CT680","Heavy Duty","UAD II","Dirt",1.5
+"135","Caterpillar CT680","Heavy Duty","UAD II","Mud",1.2
+"136","Caterpillar CT680","Heavy Duty","UAD III","Asphalt",1.5
+"137","Caterpillar CT680","Heavy Duty","UAD III","Dirt",1.7
+"138","Caterpillar CT680","Heavy Duty","UAD III","Mud",1
+"139","Caterpillar CT680","Heavy Duty","UAD III Chains","Asphalt",1.2
+"140","Caterpillar CT680","Heavy Duty","UAD III Chains","Dirt",3
+"141","Caterpillar CT680","Heavy Duty","UAD III Chains","Mud",1.3
+"142","Caterpillar CT680","Heavy Duty","UOD I","Asphalt",1
+"143","Caterpillar CT680","Heavy Duty","UOD I","Dirt",3
+"144","Caterpillar CT680","Heavy Duty","UOD I","Mud",1.5
+"145","Caterpillar CT680","Heavy Duty","UOD II","Asphalt",0.8
+"146","Caterpillar CT680","Heavy Duty","UOD II","Dirt",3
+"147","Caterpillar CT680","Heavy Duty","UOD II","Mud",1.9
+"148","Caterpillar CT680","Heavy Duty","UOD III","Asphalt",0.8
+"149","Caterpillar CT680","Heavy Duty","UOD III","Dirt",3.2
+"150","Caterpillar CT680","Heavy Duty","UOD III","Mud",1.5
+"151","Caterpillar CT681","Heavy Duty","UHD I","Asphalt",3
+"152","Caterpillar CT681","Heavy Duty","UHD I","Dirt",1
+"153","Caterpillar CT681","Heavy Duty","UHD I","Mud",0.4
+"154","Caterpillar CT681","Heavy Duty","UHD II","Asphalt",3
+"155","Caterpillar CT681","Heavy Duty","UHD II","Dirt",1.2
+"156","Caterpillar CT681","Heavy Duty","UHD II","Mud",0.2
+"157","Caterpillar CT681","Heavy Duty","UHD III","Asphalt",3.2
+"158","Caterpillar CT681","Heavy Duty","UHD III","Dirt",1
+"159","Caterpillar CT681","Heavy Duty","UHD III","Mud",0.2
+"160","Caterpillar CT681","Heavy Duty","UAD I","Asphalt",1.9
+"161","Caterpillar CT681","Heavy Duty","UAD I","Dirt",1.5
+"162","Caterpillar CT681","Heavy Duty","UAD I","Mud",1
+"163","Caterpillar CT681","Heavy Duty","UAD II","Asphalt",1.5
+"164","Caterpillar CT681","Heavy Duty","UAD II","Dirt",1.5
+"165","Caterpillar CT681","Heavy Duty","UAD II","Mud",1.2
+"166","Caterpillar CT681","Heavy Duty","UAD III","Asphalt",1.5
+"167","Caterpillar CT681","Heavy Duty","UAD III","Dirt",1.7
+"168","Caterpillar CT681","Heavy Duty","UAD III","Mud",1
+"169","Caterpillar CT681","Heavy Duty","UAD III Chains","Asphalt",1.2
+"170","Caterpillar CT681","Heavy Duty","UAD III Chains","Dirt",3
+"171","Caterpillar CT681","Heavy Duty","UAD III Chains","Mud",1.3
+"172","Caterpillar CT681","Heavy Duty","UOD I","Asphalt",1
+"173","Caterpillar CT681","Heavy Duty","UOD I","Dirt",3
+"174","Caterpillar CT681","Heavy Duty","UOD I","Mud",1.5
+"175","Caterpillar CT681","Heavy Duty","UOD II","Asphalt",0.8
+"176","Caterpillar CT681","Heavy Duty","UOD II","Dirt",3
+"177","Caterpillar CT681","Heavy Duty","UOD II","Mud",1.9
+"178","Caterpillar CT681","Heavy Duty","UOD III","Asphalt",0.8
+"179","Caterpillar CT681","Heavy Duty","UOD III","Dirt",3.2
+"180","Caterpillar CT681","Heavy Duty","UOD III","Mud",1.5
+"181","Chevrolet Kodiak C70","Heavy Duty","UHD I","Asphalt",3
+"182","Chevrolet Kodiak C70","Heavy Duty","UHD I","Dirt",1
+"183","Chevrolet Kodiak C70","Heavy Duty","UHD I","Mud",0.4
+"184","Chevrolet Kodiak C70","Heavy Duty","UHD II","Asphalt",3
+"185","Chevrolet Kodiak C70","Heavy Duty","UHD II","Dirt",1.2
+"186","Chevrolet Kodiak C70","Heavy Duty","UHD II","Mud",0.2
+"187","Chevrolet Kodiak C70","Heavy Duty","UHD III","Asphalt",3.2
+"188","Chevrolet Kodiak C70","Heavy Duty","UHD III","Dirt",1
+"189","Chevrolet Kodiak C70","Heavy Duty","UHD III","Mud",0.2
+"190","Chevrolet Kodiak C70","Heavy Duty","UAD I","Asphalt",1.9
+"191","Chevrolet Kodiak C70","Heavy Duty","UAD I","Dirt",1.5
+"192","Chevrolet Kodiak C70","Heavy Duty","UAD I","Mud",1
+"193","Chevrolet Kodiak C70","Heavy Duty","UAD II","Asphalt",1.5
+"194","Chevrolet Kodiak C70","Heavy Duty","UAD II","Dirt",1.5
+"195","Chevrolet Kodiak C70","Heavy Duty","UAD II","Mud",1.2
+"196","Chevrolet Kodiak C70","Heavy Duty","UAD III","Asphalt",1.5
+"197","Chevrolet Kodiak C70","Heavy Duty","UAD III","Dirt",1.7
+"198","Chevrolet Kodiak C70","Heavy Duty","UAD III","Mud",1
+"199","Chevrolet Kodiak C70","Heavy Duty","UAD III Chains","Asphalt",1.2
+"200","Chevrolet Kodiak C70","Heavy Duty","UAD III Chains","Dirt",3
+"201","Chevrolet Kodiak C70","Heavy Duty","UAD III Chains","Mud",1.3
+"202","Chevrolet Kodiak C70","Heavy Duty","UOD I","Asphalt",1
+"203","Chevrolet Kodiak C70","Heavy Duty","UOD I","Dirt",3
+"204","Chevrolet Kodiak C70","Heavy Duty","UOD I","Mud",1.5
+"205","Chevrolet Kodiak C70","Heavy Duty","UOD II","Asphalt",0.8
+"206","Chevrolet Kodiak C70","Heavy Duty","UOD II","Dirt",3
+"207","Chevrolet Kodiak C70","Heavy Duty","UOD II","Mud",1.9
+"208","Chevrolet Kodiak C70","Heavy Duty","UOD III","Asphalt",0.8
+"209","Chevrolet Kodiak C70","Heavy Duty","UOD III","Dirt",3.2
+"210","Chevrolet Kodiak C70","Heavy Duty","UOD III","Mud",1.5
+"211","Fleetstar F2070A","Heavy Duty","UHD I","Asphalt",3
+"212","Fleetstar F2070A","Heavy Duty","UHD I","Dirt",1
+"213","Fleetstar F2070A","Heavy Duty","UHD I","Mud",0.4
+"214","Fleetstar F2070A","Heavy Duty","UHD II","Asphalt",3
+"215","Fleetstar F2070A","Heavy Duty","UHD II","Dirt",1.2
+"216","Fleetstar F2070A","Heavy Duty","UHD II","Mud",0.2
+"217","Fleetstar F2070A","Heavy Duty","UHD III","Asphalt",3.2
+"218","Fleetstar F2070A","Heavy Duty","UHD III","Dirt",1
+"219","Fleetstar F2070A","Heavy Duty","UHD III","Mud",0.2
+"220","Fleetstar F2070A","Heavy Duty","UAD I","Asphalt",1.9
+"221","Fleetstar F2070A","Heavy Duty","UAD I","Dirt",1.5
+"222","Fleetstar F2070A","Heavy Duty","UAD I","Mud",1
+"223","Fleetstar F2070A","Heavy Duty","UAD II","Asphalt",1.5
+"224","Fleetstar F2070A","Heavy Duty","UAD II","Dirt",1.5
+"225","Fleetstar F2070A","Heavy Duty","UAD II","Mud",1.2
+"226","Fleetstar F2070A","Heavy Duty","UAD III","Asphalt",1.5
+"227","Fleetstar F2070A","Heavy Duty","UAD III","Dirt",1.7
+"228","Fleetstar F2070A","Heavy Duty","UAD III","Mud",1
+"229","Fleetstar F2070A","Heavy Duty","UAD III Chains","Asphalt",1.2
+"230","Fleetstar F2070A","Heavy Duty","UAD III Chains","Dirt",3
+"231","Fleetstar F2070A","Heavy Duty","UAD III Chains","Mud",1.3
+"232","Fleetstar F2070A","Heavy Duty","UOD I","Asphalt",1
+"233","Fleetstar F2070A","Heavy Duty","UOD I","Dirt",3
+"234","Fleetstar F2070A","Heavy Duty","UOD I","Mud",1.5
+"235","Fleetstar F2070A","Heavy Duty","UOD II","Asphalt",0.8
+"236","Fleetstar F2070A","Heavy Duty","UOD II","Dirt",3
+"237","Fleetstar F2070A","Heavy Duty","UOD II","Mud",1.9
+"238","Fleetstar F2070A","Heavy Duty","UOD III","Asphalt",0.8
+"239","Fleetstar F2070A","Heavy Duty","UOD III","Dirt",3.2
+"240","Fleetstar F2070A","Heavy Duty","UOD III","Mud",1.5
+"241","GMC Brigadier 8000","Heavy Duty","UHD I","Asphalt",3
+"242","GMC Brigadier 8000","Heavy Duty","UHD I","Dirt",1
+"243","GMC Brigadier 8000","Heavy Duty","UHD I","Mud",0.4
+"244","GMC Brigadier 8000","Heavy Duty","UHD II","Asphalt",3
+"245","GMC Brigadier 8000","Heavy Duty","UHD II","Dirt",1.2
+"246","GMC Brigadier 8000","Heavy Duty","UHD II","Mud",0.2
+"247","GMC Brigadier 8000","Heavy Duty","UHD III","Asphalt",3.2
+"248","GMC Brigadier 8000","Heavy Duty","UHD III","Dirt",1
+"249","GMC Brigadier 8000","Heavy Duty","UHD III","Mud",0.2
+"250","GMC Brigadier 8000","Heavy Duty","UAD I","Asphalt",1.9
+"251","GMC Brigadier 8000","Heavy Duty","UAD I","Dirt",1.5
+"252","GMC Brigadier 8000","Heavy Duty","UAD I","Mud",1
+"253","GMC Brigadier 8000","Heavy Duty","UAD II","Asphalt",1.5
+"254","GMC Brigadier 8000","Heavy Duty","UAD II","Dirt",1.5
+"255","GMC Brigadier 8000","Heavy Duty","UAD II","Mud",1.2
+"256","GMC Brigadier 8000","Heavy Duty","UAD III","Asphalt",1.5
+"257","GMC Brigadier 8000","Heavy Duty","UAD III","Dirt",1.7
+"258","GMC Brigadier 8000","Heavy Duty","UAD III","Mud",1
+"259","GMC Brigadier 8000","Heavy Duty","UAD III Chains","Asphalt",1.2
+"260","GMC Brigadier 8000","Heavy Duty","UAD III Chains","Dirt",3
+"261","GMC Brigadier 8000","Heavy Duty","UAD III Chains","Mud",1.3
+"262","GMC Brigadier 8000","Heavy Duty","UOD I","Asphalt",1
+"263","GMC Brigadier 8000","Heavy Duty","UOD I","Dirt",3
+"264","GMC Brigadier 8000","Heavy Duty","UOD I","Mud",1.5
+"265","GMC Brigadier 8000","Heavy Duty","UOD II","Asphalt",0.8
+"266","GMC Brigadier 8000","Heavy Duty","UOD II","Dirt",3
+"267","GMC Brigadier 8000","Heavy Duty","UOD II","Mud",1.9
+"268","GMC Brigadier 8000","Heavy Duty","UOD III","Asphalt",0.8
+"269","GMC Brigadier 8000","Heavy Duty","UOD III","Dirt",3.2
+"270","GMC Brigadier 8000","Heavy Duty","UOD III","Mud",1.5
+"271","International HX 520","Heavy Duty","UHD I","Asphalt",3
+"272","International HX 520","Heavy Duty","UHD I","Dirt",1
+"273","International HX 520","Heavy Duty","UHD I","Mud",0.4
+"274","International HX 520","Heavy Duty","UHD II","Asphalt",3
+"275","International HX 520","Heavy Duty","UHD II","Dirt",1.2
+"276","International HX 520","Heavy Duty","UHD II","Mud",0.2
+"277","International HX 520","Heavy Duty","UHD III","Asphalt",3.2
+"278","International HX 520","Heavy Duty","UHD III","Dirt",1
+"279","International HX 520","Heavy Duty","UHD III","Mud",0.2
+"280","International HX 520","Heavy Duty","UAD I","Asphalt",1.9
+"281","International HX 520","Heavy Duty","UAD I","Dirt",1.5
+"282","International HX 520","Heavy Duty","UAD I","Mud",1
+"283","International HX 520","Heavy Duty","UAD II","Asphalt",1.5
+"284","International HX 520","Heavy Duty","UAD II","Dirt",1.5
+"285","International HX 520","Heavy Duty","UAD II","Mud",1.2
+"286","International HX 520","Heavy Duty","UAD III","Asphalt",1.5
+"287","International HX 520","Heavy Duty","UAD III","Dirt",1.7
+"288","International HX 520","Heavy Duty","UAD III","Mud",1
+"289","International HX 520","Heavy Duty","UAD III Chains","Asphalt",1.2
+"290","International HX 520","Heavy Duty","UAD III Chains","Dirt",3
+"291","International HX 520","Heavy Duty","UAD III Chains","Mud",1.3
+"292","International HX 520","Heavy Duty","UOD I","Asphalt",1
+"293","International HX 520","Heavy Duty","UOD I","Dirt",3
+"294","International HX 520","Heavy Duty","UOD I","Mud",1.5
+"295","International HX 520","Heavy Duty","UOD II","Asphalt",0.8
+"296","International HX 520","Heavy Duty","UOD II","Dirt",3
+"297","International HX 520","Heavy Duty","UOD II","Mud",1.9
+"298","International HX 520","Heavy Duty","UOD III","Asphalt",0.8
+"299","International HX 520","Heavy Duty","UOD III","Dirt",3.2
+"300","International HX 520","Heavy Duty","UOD III","Mud",1.5
+"301","White Western Star 4964","Heavy Duty","UHD I","Asphalt",3
+"302","White Western Star 4964","Heavy Duty","UHD I","Dirt",1
+"303","White Western Star 4964","Heavy Duty","UHD I","Mud",0.4
+"304","White Western Star 4964","Heavy Duty","UHD II","Asphalt",3
+"305","White Western Star 4964","Heavy Duty","UHD II","Dirt",1.2
+"306","White Western Star 4964","Heavy Duty","UHD II","Mud",0.2
+"307","White Western Star 4964","Heavy Duty","UHD III","Asphalt",3.2
+"308","White Western Star 4964","Heavy Duty","UHD III","Dirt",1
+"309","White Western Star 4964","Heavy Duty","UHD III","Mud",0.2
+"310","White Western Star 4964","Heavy Duty","UAD I","Asphalt",1.9
+"311","White Western Star 4964","Heavy Duty","UAD I","Dirt",1.5
+"312","White Western Star 4964","Heavy Duty","UAD I","Mud",1
+"313","White Western Star 4964","Heavy Duty","UAD II","Asphalt",1.5
+"314","White Western Star 4964","Heavy Duty","UAD II","Dirt",1.5
+"315","White Western Star 4964","Heavy Duty","UAD II","Mud",1.2
+"316","White Western Star 4964","Heavy Duty","UAD III","Asphalt",1.5
+"317","White Western Star 4964","Heavy Duty","UAD III","Dirt",1.7
+"318","White Western Star 4964","Heavy Duty","UAD III","Mud",1
+"319","White Western Star 4964","Heavy Duty","UAD III Chains","Asphalt",1.2
+"320","White Western Star 4964","Heavy Duty","UAD III Chains","Dirt",3
+"321","White Western Star 4964","Heavy Duty","UAD III Chains","Mud",1.3
+"322","White Western Star 4964","Heavy Duty","UOD I","Asphalt",1
+"323","White Western Star 4964","Heavy Duty","UOD I","Dirt",3
+"324","White Western Star 4964","Heavy Duty","UOD I","Mud",1.5
+"325","White Western Star 4964","Heavy Duty","UOD II","Asphalt",0.8
+"326","White Western Star 4964","Heavy Duty","UOD II","Dirt",3
+"327","White Western Star 4964","Heavy Duty","UOD II","Mud",1.9
+"328","White Western Star 4964","Heavy Duty","UOD III","Asphalt",0.8
+"329","White Western Star 4964","Heavy Duty","UOD III","Dirt",3.2
+"330","White Western Star 4964","Heavy Duty","UOD III","Mud",1.5
+"331","Aramatsu Forester","Heavy","MHS II","Asphalt",0.5
+"332","Aramatsu Forester","Heavy","MHS II","Dirt",2
+"333","Aramatsu Forester","Heavy","MHS II","Mud",2.4
+"334","Aramatsu Forester","Heavy","MHS III","Asphalt",0.5
+"335","Aramatsu Forester","Heavy","MHS III","Dirt",2.4
+"336","Aramatsu Forester","Heavy","MHS III","Mud",2
+"337","Azov 42-20 Antarctic","Heavy","MSH I","Asphalt",0.5
+"338","Azov 42-20 Antarctic","Heavy","MSH I","Dirt",1.7
+"339","Azov 42-20 Antarctic","Heavy","MSH I","Mud",3
+"340","Azov 42-20 Antarctic","Heavy","MSH II","Asphalt",0.5
+"341","Azov 42-20 Antarctic","Heavy","MSH II","Dirt",1.7
+"342","Azov 42-20 Antarctic","Heavy","MSH II","Mud",3.2
+"343","Azov 42-20 Antarctic","Heavy","MSH III","Asphalt",0.5
+"344","Azov 42-20 Antarctic","Heavy","MSH III","Dirt",2
+"345","Azov 42-20 Antarctic","Heavy","MSH III","Mud",3
+"346","Azov 42-20 Antarctic","Heavy","MSH IV","Asphalt",0.7
+"347","Azov 42-20 Antarctic","Heavy","MSH IV","Dirt",1.7
+"348","Azov 42-20 Antarctic","Heavy","MSH IV","Mud",3
+"349","Azov 73210","Heavy","ATHS I","Asphalt",1.5
+"350","Azov 73210","Heavy","ATHS I","Dirt",1.5
+"351","Azov 73210","Heavy","ATHS I","Mud",1.2
+"352","Azov 73210","Heavy","OHS I","Asphalt",1
+"353","Azov 73210","Heavy","OHS I","Dirt",3
+"354","Azov 73210","Heavy","OHS I","Mud",1.5
+"355","Azov 73210","Heavy","OHS II","Asphalt",0.8
+"356","Azov 73210","Heavy","OHS II","Dirt",3
+"357","Azov 73210","Heavy","OHS II","Mud",1.8
+"358","Azov 73210","Heavy","MHS I","Asphalt",0.5
+"359","Azov 73210","Heavy","MHS I","Dirt",2
+"360","Azov 73210","Heavy","MHS I","Mud",2
+"361","Azov 73210","Heavy","MHS I Chains","Asphalt",1.2
+"362","Azov 73210","Heavy","MHS I Chains","Dirt",3
+"363","Azov 73210","Heavy","MHS I Chains","Mud",1.3
+"364","Azov 73210","Heavy","DMHS I","Asphalt",0.5
+"365","Azov 73210","Heavy","DMHS I","Dirt",2
+"366","Azov 73210","Heavy","DMHS I","Mud",2
+"367","Azov 73210","Heavy","DMHS II","Asphalt",0.5
+"368","Azov 73210","Heavy","DMHS II","Dirt",2
+"369","Azov 73210","Heavy","DMHS II","Mud",2
+"370","Azov 73210","Heavy","DMHS III","Asphalt",0.5
+"371","Azov 73210","Heavy","DMHS III","Dirt",2
+"372","Azov 73210","Heavy","DMHS III","Mud",2
+"373","BOAR 45318","Heavy","UHD I","Asphalt",3
+"374","BOAR 45318","Heavy","UHD I","Dirt",1
+"375","BOAR 45318","Heavy","UHD I","Mud",0.4
+"376","BOAR 45318","Heavy","UHD II","Asphalt",3
+"377","BOAR 45318","Heavy","UHD II","Dirt",1.2
+"378","BOAR 45318","Heavy","UHD II","Mud",0.2
+"379","BOAR 45318","Heavy","UHD III","Asphalt",3.2
+"380","BOAR 45318","Heavy","UHD III","Dirt",1
+"381","BOAR 45318","Heavy","UHD III","Mud",0.2
+"382","BOAR 45318","Heavy","UAD I","Asphalt",1.9
+"383","BOAR 45318","Heavy","UAD I","Dirt",1.5
+"384","BOAR 45318","Heavy","UAD I","Mud",1
+"385","BOAR 45318","Heavy","UAD II","Asphalt",1.5
+"386","BOAR 45318","Heavy","UAD II","Dirt",1.5
+"387","BOAR 45318","Heavy","UAD II","Mud",1.2
+"388","BOAR 45318","Heavy","UAD III","Asphalt",1.5
+"389","BOAR 45318","Heavy","UAD III","Dirt",1.7
+"390","BOAR 45318","Heavy","UAD III","Mud",1
+"391","BOAR 45318","Heavy","UAD III Chains","Asphalt",1.2
+"392","BOAR 45318","Heavy","UAD III Chains","Dirt",3
+"393","BOAR 45318","Heavy","UAD III Chains","Mud",1.3
+"394","BOAR 45318","Heavy","OHD I","Asphalt",0.8
+"395","BOAR 45318","Heavy","OHD I","Dirt",3
+"396","BOAR 45318","Heavy","OHD I","Mud",1.9
+"397","BOAR 45318","Heavy","OHD II","Asphalt",0.8
+"398","BOAR 45318","Heavy","OHD II","Dirt",3.2
+"399","BOAR 45318","Heavy","OHD II","Mud",1.5
+"400","BOAR 45318","Heavy","OHD III","Asphalt",1
+"401","BOAR 45318","Heavy","OHD III","Dirt",3
+"402","BOAR 45318","Heavy","OHD III","Mud",1.5
+"403","BOAR 45318","Heavy","OHD II Chains","Asphalt",1.2
+"404","BOAR 45318","Heavy","OHD II Chains","Dirt",3
+"405","BOAR 45318","Heavy","OHD II Chains","Mud",1.3
+"406","BOAR 45318","Heavy","UOD I","Asphalt",1
+"407","BOAR 45318","Heavy","UOD I","Dirt",3
+"408","BOAR 45318","Heavy","UOD I","Mud",1.5
+"409","BOAR 45318","Heavy","UOD II","Asphalt",0.8
+"410","BOAR 45318","Heavy","UOD II","Dirt",3
+"411","BOAR 45318","Heavy","UOD II","Mud",1.9
+"412","BOAR 45318","Heavy","UOD III","Asphalt",0.8
+"413","BOAR 45318","Heavy","UOD III","Dirt",3.2
+"414","BOAR 45318","Heavy","UOD III","Mud",1.5
+"415","Caterpillar 745C","Heavy","MSH I","Asphalt",0.5
+"416","Caterpillar 745C","Heavy","MSH I","Dirt",1.7
+"417","Caterpillar 745C","Heavy","MSH I","Mud",3
+"418","Caterpillar 745C","Heavy","MSH II","Asphalt",0.5
+"419","Caterpillar 745C","Heavy","MSH II","Dirt",1.7
+"420","Caterpillar 745C","Heavy","MSH II","Mud",3.2
+"421","Caterpillar 745C","Heavy","MSH III","Asphalt",0.5
+"422","Caterpillar 745C","Heavy","MSH III","Dirt",2
+"423","Caterpillar 745C","Heavy","MSH III","Mud",3
+"424","Caterpillar 745C","Heavy","MSH IV","Asphalt",0.7
+"425","Caterpillar 745C","Heavy","MSH IV","Dirt",1.7
+"426","Caterpillar 745C","Heavy","MSH IV","Mud",3
+"427","Caterpillar 770G","Heavy","770G Tires","Asphalt",0.5
+"428","Caterpillar 770G","Heavy","770G Tires","Dirt",2
+"429","Caterpillar 770G","Heavy","770G Tires","Mud",3.5
+"430","DAN 96320","Heavy","ATHS I","Asphalt",1.5
+"431","DAN 96320","Heavy","ATHS I","Dirt",1.5
+"432","DAN 96320","Heavy","ATHS I","Mud",1.2
+"433","DAN 96320","Heavy","OHS I","Asphalt",1
+"434","DAN 96320","Heavy","OHS I","Dirt",3
+"435","DAN 96320","Heavy","OHS I","Mud",1.5
+"436","DAN 96320","Heavy","OHS II","Asphalt",0.8
+"437","DAN 96320","Heavy","OHS II","Dirt",3
+"438","DAN 96320","Heavy","OHS II","Mud",1.8
+"439","DAN 96320","Heavy","MHS I","Asphalt",0.5
+"440","DAN 96320","Heavy","MHS I","Dirt",2
+"441","DAN 96320","Heavy","MHS I","Mud",2
+"442","DAN 96320","Heavy","MHS I Chains","Asphalt",1.2
+"443","DAN 96320","Heavy","MHS I Chains","Dirt",3
+"444","DAN 96320","Heavy","MHS I Chains","Mud",1.3
+"445","DAN 96320","Heavy","DMHS I","Asphalt",0.5
+"446","DAN 96320","Heavy","DMHS I","Dirt",2
+"447","DAN 96320","Heavy","DMHS I","Mud",2
+"448","DAN 96320","Heavy","DMHS II","Asphalt",0.5
+"449","DAN 96320","Heavy","DMHS II","Dirt",2
+"450","DAN 96320","Heavy","DMHS II","Mud",2
+"451","DAN 96320","Heavy","DMHS III","Asphalt",0.5
+"452","DAN 96320","Heavy","DMHS III","Dirt",2
+"453","DAN 96320","Heavy","DMHS III","Mud",2
+"454","Derry Longhorn 3194","Heavy","HMD I","Asphalt",3
+"455","Derry Longhorn 3194","Heavy","HMD I","Dirt",1
+"456","Derry Longhorn 3194","Heavy","HMD I","Mud",0.4
+"457","Derry Longhorn 3194","Heavy","HMD II","Asphalt",3
+"458","Derry Longhorn 3194","Heavy","HMD II","Dirt",1.2
+"459","Derry Longhorn 3194","Heavy","HMD II","Mud",0.2
+"460","Derry Longhorn 3194","Heavy","HMD III","Asphalt",3.2
+"461","Derry Longhorn 3194","Heavy","HMD III","Dirt",1
+"462","Derry Longhorn 3194","Heavy","HMD III","Mud",0.2
+"463","Derry Longhorn 3194","Heavy","ATMD I","Asphalt",1.9
+"464","Derry Longhorn 3194","Heavy","ATMD I","Dirt",1.5
+"465","Derry Longhorn 3194","Heavy","ATMD I","Mud",1
+"466","Derry Longhorn 3194","Heavy","ATMD II","Asphalt",1.5
+"467","Derry Longhorn 3194","Heavy","ATMD II","Dirt",1.5
+"468","Derry Longhorn 3194","Heavy","ATMD II","Mud",1.2
+"469","Derry Longhorn 3194","Heavy","ATMD III","Asphalt",1.5
+"470","Derry Longhorn 3194","Heavy","ATMD III","Dirt",1.7
+"471","Derry Longhorn 3194","Heavy","ATMD III","Mud",1
+"472","Derry Longhorn 3194","Heavy","OHD I","Asphalt",0.8
+"473","Derry Longhorn 3194","Heavy","OHD I","Dirt",3
+"474","Derry Longhorn 3194","Heavy","OHD I","Mud",1.9
+"475","Derry Longhorn 3194","Heavy","OHD II","Asphalt",0.8
+"476","Derry Longhorn 3194","Heavy","OHD II","Dirt",3.2
+"477","Derry Longhorn 3194","Heavy","OHD II","Mud",1.5
+"478","Derry Longhorn 3194","Heavy","OHD III","Asphalt",1
+"479","Derry Longhorn 3194","Heavy","OHD III","Dirt",3
+"480","Derry Longhorn 3194","Heavy","OHD III","Mud",1.5
+"481","Derry Longhorn 3194","Heavy","OHD II Chains","Asphalt",1.2
+"482","Derry Longhorn 3194","Heavy","OHD II Chains","Dirt",3
+"483","Derry Longhorn 3194","Heavy","OHD II Chains","Mud",1.3
+"484","Derry Longhorn 4520","Heavy","HMD I","Asphalt",3
+"485","Derry Longhorn 4520","Heavy","HMD I","Dirt",1
+"486","Derry Longhorn 4520","Heavy","HMD I","Mud",0.4
+"487","Derry Longhorn 4520","Heavy","HMD II","Asphalt",3
+"488","Derry Longhorn 4520","Heavy","HMD II","Dirt",1.2
+"489","Derry Longhorn 4520","Heavy","HMD II","Mud",0.2
+"490","Derry Longhorn 4520","Heavy","HMD III","Asphalt",3.2
+"491","Derry Longhorn 4520","Heavy","HMD III","Dirt",1
+"492","Derry Longhorn 4520","Heavy","HMD III","Mud",0.2
+"493","Derry Longhorn 4520","Heavy","ATMD I","Asphalt",1.9
+"494","Derry Longhorn 4520","Heavy","ATMD I","Dirt",1.5
+"495","Derry Longhorn 4520","Heavy","ATMD I","Mud",1
+"496","Derry Longhorn 4520","Heavy","ATMD II","Asphalt",1.5
+"497","Derry Longhorn 4520","Heavy","ATMD II","Dirt",1.5
+"498","Derry Longhorn 4520","Heavy","ATMD II","Mud",1.2
+"499","Derry Longhorn 4520","Heavy","ATMD III","Asphalt",1.5
+"500","Derry Longhorn 4520","Heavy","ATMD III","Dirt",1.7
+"501","Derry Longhorn 4520","Heavy","ATMD III","Mud",1
+"502","Derry Longhorn 4520","Heavy","ATHS I","Asphalt",1.5
+"503","Derry Longhorn 4520","Heavy","ATHS I","Dirt",1.5
+"504","Derry Longhorn 4520","Heavy","ATHS I","Mud",1.2
+"505","Derry Longhorn 4520","Heavy","OHD I","Asphalt",0.8
+"506","Derry Longhorn 4520","Heavy","OHD I","Dirt",3
+"507","Derry Longhorn 4520","Heavy","OHD I","Mud",1.9
+"508","Derry Longhorn 4520","Heavy","OHD II","Asphalt",0.8
+"509","Derry Longhorn 4520","Heavy","OHD II","Dirt",3.2
+"510","Derry Longhorn 4520","Heavy","OHD II","Mud",1.5
+"511","Derry Longhorn 4520","Heavy","OHD III","Asphalt",1
+"512","Derry Longhorn 4520","Heavy","OHD III","Dirt",3
+"513","Derry Longhorn 4520","Heavy","OHD III","Mud",1.5
+"514","Derry Longhorn 4520","Heavy","OHD II Chains","Asphalt",1.2
+"515","Derry Longhorn 4520","Heavy","OHD II Chains","Dirt",3
+"516","Derry Longhorn 4520","Heavy","OHD II Chains","Mud",1.3
+"517","Derry Longhorn 4520","Heavy","OHS I","Asphalt",1
+"518","Derry Longhorn 4520","Heavy","OHS I","Dirt",3
+"519","Derry Longhorn 4520","Heavy","OHS I","Mud",1.5
+"520","Derry Longhorn 4520","Heavy","OHS II","Asphalt",0.8
+"521","Derry Longhorn 4520","Heavy","OHS II","Dirt",3
+"522","Derry Longhorn 4520","Heavy","OHS II","Mud",1.8
+"523","Derry Longhorn 4520","Heavy","MHS I","Asphalt",0.5
+"524","Derry Longhorn 4520","Heavy","MHS I","Dirt",2
+"525","Derry Longhorn 4520","Heavy","MHS I","Mud",2
+"526","Derry Longhorn 4520","Heavy","MHS I Chains","Asphalt",1.2
+"527","Derry Longhorn 4520","Heavy","MHS I Chains","Dirt",3
+"528","Derry Longhorn 4520","Heavy","MHS I Chains","Mud",1.3
+"529","Derry Longhorn 4520","Heavy","DMHS I","Asphalt",0.5
+"530","Derry Longhorn 4520","Heavy","DMHS I","Dirt",2
+"531","Derry Longhorn 4520","Heavy","DMHS I","Mud",2
+"532","Derry Longhorn 4520","Heavy","DMHS II","Asphalt",0.5
+"533","Derry Longhorn 4520","Heavy","DMHS II","Dirt",2
+"534","Derry Longhorn 4520","Heavy","DMHS II","Mud",2
+"535","Derry Longhorn 4520","Heavy","DMHS III","Asphalt",0.5
+"536","Derry Longhorn 4520","Heavy","DMHS III","Dirt",2
+"537","Derry Longhorn 4520","Heavy","DMHS III","Mud",2
+"538","International Paystar 5600TS","Heavy","HMD I","Asphalt",3
+"539","International Paystar 5600TS","Heavy","HMD I","Dirt",1
+"540","International Paystar 5600TS","Heavy","HMD I","Mud",0.4
+"541","International Paystar 5600TS","Heavy","HMD II","Asphalt",3
+"542","International Paystar 5600TS","Heavy","HMD II","Dirt",1.2
+"543","International Paystar 5600TS","Heavy","HMD II","Mud",0.2
+"544","International Paystar 5600TS","Heavy","HMD III","Asphalt",3.2
+"545","International Paystar 5600TS","Heavy","HMD III","Dirt",1
+"546","International Paystar 5600TS","Heavy","HMD III","Mud",0.2
+"547","International Paystar 5600TS","Heavy","ATMD I","Asphalt",1.9
+"548","International Paystar 5600TS","Heavy","ATMD I","Dirt",1.5
+"549","International Paystar 5600TS","Heavy","ATMD I","Mud",1
+"550","International Paystar 5600TS","Heavy","ATMD II","Asphalt",1.5
+"551","International Paystar 5600TS","Heavy","ATMD II","Dirt",1.5
+"552","International Paystar 5600TS","Heavy","ATMD II","Mud",1.2
+"553","International Paystar 5600TS","Heavy","ATMD III","Asphalt",1.5
+"554","International Paystar 5600TS","Heavy","ATMD III","Dirt",1.7
+"555","International Paystar 5600TS","Heavy","ATMD III","Mud",1
+"556","International Paystar 5600TS","Heavy","ATHS I","Asphalt",1.5
+"557","International Paystar 5600TS","Heavy","ATHS I","Dirt",1.5
+"558","International Paystar 5600TS","Heavy","ATHS I","Mud",1.2
+"559","International Paystar 5600TS","Heavy","OHD I","Asphalt",0.8
+"560","International Paystar 5600TS","Heavy","OHD I","Dirt",3
+"561","International Paystar 5600TS","Heavy","OHD I","Mud",1.9
+"562","International Paystar 5600TS","Heavy","OHD II","Asphalt",0.8
+"563","International Paystar 5600TS","Heavy","OHD II","Dirt",3.2
+"564","International Paystar 5600TS","Heavy","OHD II","Mud",1.5
+"565","International Paystar 5600TS","Heavy","OHD III","Asphalt",1
+"566","International Paystar 5600TS","Heavy","OHD III","Dirt",3
+"567","International Paystar 5600TS","Heavy","OHD III","Mud",1.5
+"568","International Paystar 5600TS","Heavy","OHD II Chains","Asphalt",1.2
+"569","International Paystar 5600TS","Heavy","OHD II Chains","Dirt",3
+"570","International Paystar 5600TS","Heavy","OHD II Chains","Mud",1.3
+"571","International Paystar 5600TS","Heavy","OHS I","Asphalt",1
+"572","International Paystar 5600TS","Heavy","OHS I","Dirt",3
+"573","International Paystar 5600TS","Heavy","OHS I","Mud",1.5
+"574","International Paystar 5600TS","Heavy","OHS II","Asphalt",0.8
+"575","International Paystar 5600TS","Heavy","OHS II","Dirt",3
+"576","International Paystar 5600TS","Heavy","OHS II","Mud",1.8
+"577","International Paystar 5600TS","Heavy","MHS I","Asphalt",0.5
+"578","International Paystar 5600TS","Heavy","MHS I","Dirt",2
+"579","International Paystar 5600TS","Heavy","MHS I","Mud",2
+"580","International Paystar 5600TS","Heavy","MHS II","Asphalt",0.5
+"581","International Paystar 5600TS","Heavy","MHS II","Dirt",2
+"582","International Paystar 5600TS","Heavy","MHS II","Mud",2.4
+"583","International Paystar 5600TS","Heavy","MHS III","Asphalt",0.5
+"584","International Paystar 5600TS","Heavy","MHS III","Dirt",2.4
+"585","International Paystar 5600TS","Heavy","MHS III","Mud",2
+"586","International Paystar 5600TS","Heavy","MHS I Chains","Asphalt",1.2
+"587","International Paystar 5600TS","Heavy","MHS I Chains","Dirt",3
+"588","International Paystar 5600TS","Heavy","MHS I Chains","Mud",1.3
+"589","International Paystar 5600TS","Heavy","DMHS I","Asphalt",0.5
+"590","International Paystar 5600TS","Heavy","DMHS I","Dirt",2
+"591","International Paystar 5600TS","Heavy","DMHS I","Mud",2
+"592","International Paystar 5600TS","Heavy","DMHS II","Asphalt",0.5
+"593","International Paystar 5600TS","Heavy","DMHS II","Dirt",2
+"594","International Paystar 5600TS","Heavy","DMHS II","Mud",2
+"595","International Paystar 5600TS","Heavy","DMHS III","Asphalt",0.5
+"596","International Paystar 5600TS","Heavy","DMHS III","Dirt",2
+"597","International Paystar 5600TS","Heavy","DMHS III","Mud",2
+"598","Kirovets K-700","Heavy","MSH I","Asphalt",0.5
+"599","Kirovets K-700","Heavy","MSH I","Dirt",1.7
+"600","Kirovets K-700","Heavy","MSH I","Mud",3
+"601","Kirovets K-700","Heavy","MSH II","Asphalt",0.5
+"602","Kirovets K-700","Heavy","MSH II","Dirt",1.7
+"603","Kirovets K-700","Heavy","MSH II","Mud",3.2
+"604","Kirovets K-700","Heavy","MSH III","Asphalt",0.5
+"605","Kirovets K-700","Heavy","MSH III","Dirt",2
+"606","Kirovets K-700","Heavy","MSH III","Mud",3
+"607","Kirovets K-700","Heavy","MSH IV","Asphalt",0.7
+"608","Kirovets K-700","Heavy","MSH IV","Dirt",1.7
+"609","Kirovets K-700","Heavy","MSH IV","Mud",3
+"610","Kirovets K-700","Heavy","Tractor Tires","Asphalt",0.5
+"611","Kirovets K-700","Heavy","Tractor Tires","Dirt",1.7
+"612","Kirovets K-700","Heavy","Tractor Tires","Mud",3
+"613","Kirovets K-7M","Heavy","MSH I","Asphalt",0.5
+"614","Kirovets K-7M","Heavy","MSH I","Dirt",1.7
+"615","Kirovets K-7M","Heavy","MSH I","Mud",3
+"616","KOLOB 74760","Heavy","MSH I","Asphalt",0.5
+"617","KOLOB 74760","Heavy","MSH I","Dirt",1.7
+"618","KOLOB 74760","Heavy","MSH I","Mud",3
+"619","KOLOB 74760","Heavy","MSH II","Asphalt",0.5
+"620","KOLOB 74760","Heavy","MSH II","Dirt",1.7
+"621","KOLOB 74760","Heavy","MSH II","Mud",3.2
+"622","KOLOB 74760","Heavy","MSH III","Asphalt",0.5
+"623","KOLOB 74760","Heavy","MSH III","Dirt",2
+"624","KOLOB 74760","Heavy","MSH III","Mud",3
+"625","KOLOB 74760","Heavy","MSH IV","Asphalt",0.7
+"626","KOLOB 74760","Heavy","MSH IV","Dirt",1.7
+"627","KOLOB 74760","Heavy","MSH IV","Mud",3
+"628","KOLOB 74941","Heavy","MSH I","Asphalt",0.5
+"629","KOLOB 74941","Heavy","MSH I","Dirt",1.7
+"630","KOLOB 74941","Heavy","MSH I","Mud",3
+"631","KOLOB 74941","Heavy","MSH II","Asphalt",0.5
+"632","KOLOB 74941","Heavy","MSH II","Dirt",1.7
+"633","KOLOB 74941","Heavy","MSH II","Mud",3.2
+"634","KOLOB 74941","Heavy","MSH III","Asphalt",0.5
+"635","KOLOB 74941","Heavy","MSH III","Dirt",2
+"636","KOLOB 74941","Heavy","MSH III","Mud",3
+"637","KOLOB 74941","Heavy","MSH IV","Asphalt",0.7
+"638","KOLOB 74941","Heavy","MSH IV","Dirt",1.7
+"639","KOLOB 74941","Heavy","MSH IV","Mud",3
+"640","Navistar 5000-MV (PRE)","Heavy","HMD I","Asphalt",3
+"641","Navistar 5000-MV (PRE)","Heavy","HMD I","Dirt",1
+"642","Navistar 5000-MV (PRE)","Heavy","HMD I","Mud",0.4
+"643","Navistar 5000-MV (PRE)","Heavy","HMD II","Asphalt",3
+"644","Navistar 5000-MV (PRE)","Heavy","HMD II","Dirt",1.2
+"645","Navistar 5000-MV (PRE)","Heavy","HMD II","Mud",0.2
+"646","Navistar 5000-MV (PRE)","Heavy","HMD III","Asphalt",3.2
+"647","Navistar 5000-MV (PRE)","Heavy","HMD III","Dirt",1
+"648","Navistar 5000-MV (PRE)","Heavy","HMD III","Mud",0.2
+"649","Navistar 5000-MV (PRE)","Heavy","ATMD I","Asphalt",1.9
+"650","Navistar 5000-MV (PRE)","Heavy","ATMD I","Dirt",1.5
+"651","Navistar 5000-MV (PRE)","Heavy","ATMD I","Mud",1
+"652","Navistar 5000-MV (PRE)","Heavy","ATMD II","Asphalt",1.5
+"653","Navistar 5000-MV (PRE)","Heavy","ATMD II","Dirt",1.5
+"654","Navistar 5000-MV (PRE)","Heavy","ATMD II","Mud",1.2
+"655","Navistar 5000-MV (PRE)","Heavy","ATMD III","Asphalt",1.5
+"656","Navistar 5000-MV (PRE)","Heavy","ATMD III","Dirt",1.7
+"657","Navistar 5000-MV (PRE)","Heavy","ATMD III","Mud",1
+"658","Navistar 5000-MV (PRE)","Heavy","OHD I","Asphalt",0.8
+"659","Navistar 5000-MV (PRE)","Heavy","OHD I","Dirt",3
+"660","Navistar 5000-MV (PRE)","Heavy","OHD I","Mud",1.9
+"661","Navistar 5000-MV (PRE)","Heavy","OHD II","Asphalt",0.8
+"662","Navistar 5000-MV (PRE)","Heavy","OHD II","Dirt",3.2
+"663","Navistar 5000-MV (PRE)","Heavy","OHD II","Mud",1.5
+"664","Navistar 5000-MV (PRE)","Heavy","OHD III","Asphalt",1
+"665","Navistar 5000-MV (PRE)","Heavy","OHD III","Dirt",3
+"666","Navistar 5000-MV (PRE)","Heavy","OHD III","Mud",1.5
+"667","Navistar 5000-MV (PRE)","Heavy","OHD II Chains","Asphalt",1.2
+"668","Navistar 5000-MV (PRE)","Heavy","OHD II Chains","Dirt",3
+"669","Navistar 5000-MV (PRE)","Heavy","OHD II Chains","Mud",1.3
+"670","Pacific P12","Heavy","P12 AT","Asphalt",1.9
+"671","Pacific P12","Heavy","P12 AT","Dirt",1.5
+"672","Pacific P12","Heavy","P12 AT","Mud",1
+"673","Pacific P12","Heavy","ATHS I","Asphalt",1.5
+"674","Pacific P12","Heavy","ATHS I","Dirt",1.5
+"675","Pacific P12","Heavy","ATHS I","Mud",1.2
+"676","Pacific P12","Heavy","OHD I","Asphalt",0.8
+"677","Pacific P12","Heavy","OHD I","Dirt",3
+"678","Pacific P12","Heavy","OHD I","Mud",1.9
+"679","Pacific P12","Heavy","OHD II","Asphalt",0.8
+"680","Pacific P12","Heavy","OHD II","Dirt",3.2
+"681","Pacific P12","Heavy","OHD II","Mud",1.5
+"682","Pacific P12","Heavy","OHD III","Asphalt",1
+"683","Pacific P12","Heavy","OHD III","Dirt",3
+"684","Pacific P12","Heavy","OHD III","Mud",1.5
+"685","Pacific P12","Heavy","OHD II Chains","Asphalt",1.2
+"686","Pacific P12","Heavy","OHD II Chains","Dirt",3
+"687","Pacific P12","Heavy","OHD II Chains","Mud",1.3
+"688","Pacific P12","Heavy","OHS I","Asphalt",1
+"689","Pacific P12","Heavy","OHS I","Dirt",3
+"690","Pacific P12","Heavy","OHS I","Mud",1.5
+"691","Pacific P12","Heavy","OHS II","Asphalt",0.8
+"692","Pacific P12","Heavy","OHS II","Dirt",3
+"693","Pacific P12","Heavy","OHS II","Mud",1.8
+"694","Pacific P12","Heavy","MHS I","Asphalt",0.5
+"695","Pacific P12","Heavy","MHS I","Dirt",2
+"696","Pacific P12","Heavy","MHS I","Mud",2
+"697","Pacific P12","Heavy","MHS I Chains","Asphalt",1.2
+"698","Pacific P12","Heavy","MHS I Chains","Dirt",3
+"699","Pacific P12","Heavy","MHS I Chains","Mud",1.3
+"700","Pacific P12","Heavy","DMHS I","Asphalt",0.5
+"701","Pacific P12","Heavy","DMHS I","Dirt",2
+"702","Pacific P12","Heavy","DMHS I","Mud",2
+"703","Pacific P12","Heavy","DMHS II","Asphalt",0.5
+"704","Pacific P12","Heavy","DMHS II","Dirt",2
+"705","Pacific P12","Heavy","DMHS II","Mud",2
+"706","Pacific P12","Heavy","DMHS III","Asphalt",0.5
+"707","Pacific P12","Heavy","DMHS III","Dirt",2
+"708","Pacific P12","Heavy","DMHS III","Mud",2
+"709","Pacific P16","Heavy","OHD I","Asphalt",0.8
+"710","Pacific P16","Heavy","OHD I","Dirt",3
+"711","Pacific P16","Heavy","OHD I","Mud",1.9
+"712","Pacific P512 PF","Heavy","OHD I","Asphalt",0.8
+"713","Pacific P512 PF","Heavy","OHD I","Dirt",3
+"714","Pacific P512 PF","Heavy","OHD I","Mud",1.9
+"715","Tatra FORCE T815-7","Heavy","ATHS I","Asphalt",1.5
+"716","Tatra FORCE T815-7","Heavy","ATHS I","Dirt",1.5
+"717","Tatra FORCE T815-7","Heavy","ATHS I","Mud",1.2
+"718","Tatra FORCE T815-7","Heavy","OHS I","Asphalt",1
+"719","Tatra FORCE T815-7","Heavy","OHS I","Dirt",3
+"720","Tatra FORCE T815-7","Heavy","OHS I","Mud",1.5
+"721","Tatra FORCE T815-7","Heavy","OHS II","Asphalt",0.8
+"722","Tatra FORCE T815-7","Heavy","OHS II","Dirt",3
+"723","Tatra FORCE T815-7","Heavy","OHS II","Mud",1.8
+"724","Tatra FORCE T815-7","Heavy","MSH I","Asphalt",0.5
+"725","Tatra FORCE T815-7","Heavy","MSH I","Dirt",1.7
+"726","Tatra FORCE T815-7","Heavy","MSH I","Mud",3
+"727","Tatra FORCE T815-7","Heavy","MHS I","Asphalt",0.5
+"728","Tatra FORCE T815-7","Heavy","MHS I","Dirt",2
+"729","Tatra FORCE T815-7","Heavy","MHS I","Mud",2
+"730","Tatra FORCE T815-7","Heavy","MHS I Chains","Asphalt",1.2
+"731","Tatra FORCE T815-7","Heavy","MHS I Chains","Dirt",3
+"732","Tatra FORCE T815-7","Heavy","MHS I Chains","Mud",1.3
+"733","Tatra FORCE T815-7","Heavy","DMHS I","Asphalt",0.5
+"734","Tatra FORCE T815-7","Heavy","DMHS I","Dirt",2
+"735","Tatra FORCE T815-7","Heavy","DMHS I","Mud",2
+"736","Tatra FORCE T815-7","Heavy","DMHS II","Asphalt",0.5
+"737","Tatra FORCE T815-7","Heavy","DMHS II","Dirt",2
+"738","Tatra FORCE T815-7","Heavy","DMHS II","Mud",2
+"739","Tatra FORCE T815-7","Heavy","DMHS III","Asphalt",0.5
+"740","Tatra FORCE T815-7","Heavy","DMHS III","Dirt",2
+"741","Tatra FORCE T815-7","Heavy","DMHS III","Mud",2
+"742","Tatra T813","Heavy","ATHS I","Asphalt",1.5
+"743","Tatra T813","Heavy","ATHS I","Dirt",1.5
+"744","Tatra T813","Heavy","ATHS I","Mud",1.2
+"745","Tatra T813","Heavy","OHS I","Asphalt",1
+"746","Tatra T813","Heavy","OHS I","Dirt",3
+"747","Tatra T813","Heavy","OHS I","Mud",1.5
+"748","Tatra T813","Heavy","OHS II","Asphalt",0.8
+"749","Tatra T813","Heavy","OHS II","Dirt",3
+"750","Tatra T813","Heavy","OHS II","Mud",1.8
+"751","Tatra T813","Heavy","MSH I","Asphalt",0.5
+"752","Tatra T813","Heavy","MSH I","Dirt",1.7
+"753","Tatra T813","Heavy","MSH I","Mud",3
+"754","Tatra T813","Heavy","MHS I","Asphalt",0.5
+"755","Tatra T813","Heavy","MHS I","Dirt",2
+"756","Tatra T813","Heavy","MHS I","Mud",2
+"757","Tatra T813","Heavy","MHS I Chains","Asphalt",1.2
+"758","Tatra T813","Heavy","MHS I Chains","Dirt",3
+"759","Tatra T813","Heavy","MHS I Chains","Mud",1.3
+"760","Tatra T813","Heavy","DMHS I","Asphalt",0.5
+"761","Tatra T813","Heavy","DMHS I","Dirt",2
+"762","Tatra T813","Heavy","DMHS I","Mud",2
+"763","Tatra T813","Heavy","DMHS II","Asphalt",0.5
+"764","Tatra T813","Heavy","DMHS II","Dirt",2
+"765","Tatra T813","Heavy","DMHS II","Mud",2
+"766","Tatra T813","Heavy","DMHS III","Asphalt",0.5
+"767","Tatra T813","Heavy","DMHS III","Dirt",2
+"768","Tatra T813","Heavy","DMHS III","Mud",2
+"769","Western Star 47X NF 1424","Heavy","UHD I","Asphalt",3
+"770","Western Star 47X NF 1424","Heavy","UHD I","Dirt",1
+"771","Western Star 47X NF 1424","Heavy","UHD I","Mud",0.4
+"772","Western Star 47X NF 1424","Heavy","UHD II","Asphalt",3
+"773","Western Star 47X NF 1424","Heavy","UHD II","Dirt",1.2
+"774","Western Star 47X NF 1424","Heavy","UHD II","Mud",0.2
+"775","Western Star 47X NF 1424","Heavy","UHD III","Asphalt",3.2
+"776","Western Star 47X NF 1424","Heavy","UHD III","Dirt",1
+"777","Western Star 47X NF 1424","Heavy","UHD III","Mud",0.2
+"778","Western Star 47X NF 1424","Heavy","UAD I","Asphalt",1.9
+"779","Western Star 47X NF 1424","Heavy","UAD I","Dirt",1.5
+"780","Western Star 47X NF 1424","Heavy","UAD I","Mud",1
+"781","Western Star 47X NF 1424","Heavy","UAD II","Asphalt",1.5
+"782","Western Star 47X NF 1424","Heavy","UAD II","Dirt",1.5
+"783","Western Star 47X NF 1424","Heavy","UAD II","Mud",1.2
+"784","Western Star 47X NF 1424","Heavy","UAD III","Asphalt",1.5
+"785","Western Star 47X NF 1424","Heavy","UAD III","Dirt",1.7
+"786","Western Star 47X NF 1424","Heavy","UAD III","Mud",1
+"787","Western Star 47X NF 1424","Heavy","UAD III Chains","Asphalt",1.2
+"788","Western Star 47X NF 1424","Heavy","UAD III Chains","Dirt",3
+"789","Western Star 47X NF 1424","Heavy","UAD III Chains","Mud",1.3
+"790","Western Star 47X NF 1424","Heavy","UOD I","Asphalt",1
+"791","Western Star 47X NF 1424","Heavy","UOD I","Dirt",3
+"792","Western Star 47X NF 1424","Heavy","UOD I","Mud",1.5
+"793","Western Star 47X NF 1424","Heavy","UOD II","Asphalt",0.8
+"794","Western Star 47X NF 1424","Heavy","UOD II","Dirt",3
+"795","Western Star 47X NF 1424","Heavy","UOD II","Mud",1.9
+"796","Western Star 47X NF 1424","Heavy","UOD III","Asphalt",0.8
+"797","Western Star 47X NF 1424","Heavy","UOD III","Dirt",3.2
+"798","Western Star 47X NF 1424","Heavy","UOD III","Mud",1.5
+"799","Western Star 47X NF 1430","Heavy","HMD I","Asphalt",3
+"800","Western Star 47X NF 1430","Heavy","HMD I","Dirt",1
+"801","Western Star 47X NF 1430","Heavy","HMD I","Mud",0.4
+"802","Western Star 47X NF 1430","Heavy","HMD II","Asphalt",3
+"803","Western Star 47X NF 1430","Heavy","HMD II","Dirt",1.2
+"804","Western Star 47X NF 1430","Heavy","HMD II","Mud",0.2
+"805","Western Star 47X NF 1430","Heavy","HMD III","Asphalt",3.2
+"806","Western Star 47X NF 1430","Heavy","HMD III","Dirt",1
+"807","Western Star 47X NF 1430","Heavy","HMD III","Mud",0.2
+"808","Western Star 47X NF 1430","Heavy","ATMD I","Asphalt",1.9
+"809","Western Star 47X NF 1430","Heavy","ATMD I","Dirt",1.5
+"810","Western Star 47X NF 1430","Heavy","ATMD I","Mud",1
+"811","Western Star 47X NF 1430","Heavy","ATMD II","Asphalt",1.5
+"812","Western Star 47X NF 1430","Heavy","ATMD II","Dirt",1.5
+"813","Western Star 47X NF 1430","Heavy","ATMD II","Mud",1.2
+"814","Western Star 47X NF 1430","Heavy","ATMD III","Asphalt",1.5
+"815","Western Star 47X NF 1430","Heavy","ATMD III","Dirt",1.7
+"816","Western Star 47X NF 1430","Heavy","ATMD III","Mud",1
+"817","Western Star 47X NF 1430","Heavy","OHD I","Asphalt",0.8
+"818","Western Star 47X NF 1430","Heavy","OHD I","Dirt",3
+"819","Western Star 47X NF 1430","Heavy","OHD I","Mud",1.9
+"820","Western Star 47X NF 1430","Heavy","OHD II","Asphalt",0.8
+"821","Western Star 47X NF 1430","Heavy","OHD II","Dirt",3.2
+"822","Western Star 47X NF 1430","Heavy","OHD II","Mud",1.5
+"823","Western Star 47X NF 1430","Heavy","OHD III","Asphalt",1
+"824","Western Star 47X NF 1430","Heavy","OHD III","Dirt",3
+"825","Western Star 47X NF 1430","Heavy","OHD III","Mud",1.5
+"826","Western Star 47X NF 1430","Heavy","OHD II Chains","Asphalt",1.2
+"827","Western Star 47X NF 1430","Heavy","OHD II Chains","Dirt",3
+"828","Western Star 47X NF 1430","Heavy","OHD II Chains","Mud",1.3
+"829","Western Star 49X","Heavy","UHD I","Asphalt",3
+"830","Western Star 49X","Heavy","UHD I","Dirt",1
+"831","Western Star 49X","Heavy","UHD I","Mud",0.4
+"832","Western Star 49X","Heavy","UHD II","Asphalt",3
+"833","Western Star 49X","Heavy","UHD II","Dirt",1.2
+"834","Western Star 49X","Heavy","UHD II","Mud",0.2
+"835","Western Star 49X","Heavy","UHD III","Asphalt",3.2
+"836","Western Star 49X","Heavy","UHD III","Dirt",1
+"837","Western Star 49X","Heavy","UHD III","Mud",0.2
+"838","Western Star 49X","Heavy","UAD I","Asphalt",1.9
+"839","Western Star 49X","Heavy","UAD I","Dirt",1.5
+"840","Western Star 49X","Heavy","UAD I","Mud",1
+"841","Western Star 49X","Heavy","UAD II","Asphalt",1.5
+"842","Western Star 49X","Heavy","UAD II","Dirt",1.5
+"843","Western Star 49X","Heavy","UAD II","Mud",1.2
+"844","Western Star 49X","Heavy","UAD III","Asphalt",1.5
+"845","Western Star 49X","Heavy","UAD III","Dirt",1.7
+"846","Western Star 49X","Heavy","UAD III","Mud",1
+"847","Western Star 49X","Heavy","UAD III Chains","Asphalt",1.2
+"848","Western Star 49X","Heavy","UAD III Chains","Dirt",3
+"849","Western Star 49X","Heavy","UAD III Chains","Mud",1.3
+"850","Western Star 49X","Heavy","UOD I","Asphalt",1
+"851","Western Star 49X","Heavy","UOD I","Dirt",3
+"852","Western Star 49X","Heavy","UOD I","Mud",1.5
+"853","Western Star 49X","Heavy","UOD II","Asphalt",0.8
+"854","Western Star 49X","Heavy","UOD II","Dirt",3
+"855","Western Star 49X","Heavy","UOD II","Mud",1.9
+"856","Western Star 49X","Heavy","UOD III","Asphalt",0.8
+"857","Western Star 49X","Heavy","UOD III","Dirt",3.2
+"858","Western Star 49X","Heavy","UOD III","Mud",1.5
+"859","Western Star 6900 TwinSteer","Heavy","HMD I","Asphalt",3
+"860","Western Star 6900 TwinSteer","Heavy","HMD I","Dirt",1
+"861","Western Star 6900 TwinSteer","Heavy","HMD I","Mud",0.4
+"862","Western Star 6900 TwinSteer","Heavy","HMD II","Asphalt",3
+"863","Western Star 6900 TwinSteer","Heavy","HMD II","Dirt",1.2
+"864","Western Star 6900 TwinSteer","Heavy","HMD II","Mud",0.2
+"865","Western Star 6900 TwinSteer","Heavy","HMD III","Asphalt",3.2
+"866","Western Star 6900 TwinSteer","Heavy","HMD III","Dirt",1
+"867","Western Star 6900 TwinSteer","Heavy","HMD III","Mud",0.2
+"868","Western Star 6900 TwinSteer","Heavy","ATMD I","Asphalt",1.9
+"869","Western Star 6900 TwinSteer","Heavy","ATMD I","Dirt",1.5
+"870","Western Star 6900 TwinSteer","Heavy","ATMD I","Mud",1
+"871","Western Star 6900 TwinSteer","Heavy","ATMD II","Asphalt",1.5
+"872","Western Star 6900 TwinSteer","Heavy","ATMD II","Dirt",1.5
+"873","Western Star 6900 TwinSteer","Heavy","ATMD II","Mud",1.2
+"874","Western Star 6900 TwinSteer","Heavy","ATMD III","Asphalt",1.5
+"875","Western Star 6900 TwinSteer","Heavy","ATMD III","Dirt",1.7
+"876","Western Star 6900 TwinSteer","Heavy","ATMD III","Mud",1
+"877","Western Star 6900 TwinSteer","Heavy","ATHS I","Asphalt",1.5
+"878","Western Star 6900 TwinSteer","Heavy","ATHS I","Dirt",1.5
+"879","Western Star 6900 TwinSteer","Heavy","ATHS I","Mud",1.2
+"880","Western Star 6900 TwinSteer","Heavy","OHD I","Asphalt",0.8
+"881","Western Star 6900 TwinSteer","Heavy","OHD I","Dirt",3
+"882","Western Star 6900 TwinSteer","Heavy","OHD I","Mud",1.9
+"883","Western Star 6900 TwinSteer","Heavy","OHD II","Asphalt",0.8
+"884","Western Star 6900 TwinSteer","Heavy","OHD II","Dirt",3.2
+"885","Western Star 6900 TwinSteer","Heavy","OHD II","Mud",1.5
+"886","Western Star 6900 TwinSteer","Heavy","OHD III","Asphalt",1
+"887","Western Star 6900 TwinSteer","Heavy","OHD III","Dirt",3
+"888","Western Star 6900 TwinSteer","Heavy","OHD III","Mud",1.5
+"889","Western Star 6900 TwinSteer","Heavy","OHD II Chains","Asphalt",1.2
+"890","Western Star 6900 TwinSteer","Heavy","OHD II Chains","Dirt",3
+"891","Western Star 6900 TwinSteer","Heavy","OHD II Chains","Mud",1.3
+"892","Western Star 6900 TwinSteer","Heavy","OHS I","Asphalt",1
+"893","Western Star 6900 TwinSteer","Heavy","OHS I","Dirt",3
+"894","Western Star 6900 TwinSteer","Heavy","OHS I","Mud",1.5
+"895","Western Star 6900 TwinSteer","Heavy","OHS II","Asphalt",0.8
+"896","Western Star 6900 TwinSteer","Heavy","OHS II","Dirt",3
+"897","Western Star 6900 TwinSteer","Heavy","OHS II","Mud",1.8
+"898","Western Star 6900 TwinSteer","Heavy","MHS I","Asphalt",0.5
+"899","Western Star 6900 TwinSteer","Heavy","MHS I","Dirt",2
+"900","Western Star 6900 TwinSteer","Heavy","MHS I","Mud",2
+"901","Western Star 6900 TwinSteer","Heavy","MHS I Chains","Asphalt",1.2
+"902","Western Star 6900 TwinSteer","Heavy","MHS I Chains","Dirt",3
+"903","Western Star 6900 TwinSteer","Heavy","MHS I Chains","Mud",1.3
+"904","Western Star 6900 TwinSteer","Heavy","DMHS I","Asphalt",0.5
+"905","Western Star 6900 TwinSteer","Heavy","DMHS I","Dirt",2
+"906","Western Star 6900 TwinSteer","Heavy","DMHS I","Mud",2
+"907","Western Star 6900 TwinSteer","Heavy","DMHS II","Asphalt",0.5
+"908","Western Star 6900 TwinSteer","Heavy","DMHS II","Dirt",2
+"909","Western Star 6900 TwinSteer","Heavy","DMHS II","Mud",2
+"910","Western Star 6900 TwinSteer","Heavy","DMHS III","Asphalt",0.5
+"911","Western Star 6900 TwinSteer","Heavy","DMHS III","Dirt",2
+"912","Western Star 6900 TwinSteer","Heavy","DMHS III","Mud",2
+"913","ZiKZ 605R","Heavy","ZHM","Asphalt",0.5
+"914","ZiKZ 605R","Heavy","ZHM","Dirt",1.7
+"915","ZiKZ 605R","Heavy","ZHM","Mud",3
+"916","ANK MK38","Offroad","UHD I","Asphalt",3
+"917","ANK MK38","Offroad","UHD I","Dirt",1
+"918","ANK MK38","Offroad","UHD I","Mud",0.4
+"919","ANK MK38","Offroad","UHD II","Asphalt",3
+"920","ANK MK38","Offroad","UHD II","Dirt",1.2
+"921","ANK MK38","Offroad","UHD II","Mud",0.2
+"922","ANK MK38","Offroad","UHD III","Asphalt",3.2
+"923","ANK MK38","Offroad","UHD III","Dirt",1
+"924","ANK MK38","Offroad","UHD III","Mud",0.2
+"925","ANK MK38","Offroad","UAD I","Asphalt",1.9
+"926","ANK MK38","Offroad","UAD I","Dirt",1.5
+"927","ANK MK38","Offroad","UAD I","Mud",1
+"928","ANK MK38","Offroad","UAD II","Asphalt",1.5
+"929","ANK MK38","Offroad","UAD II","Dirt",1.5
+"930","ANK MK38","Offroad","UAD II","Mud",1.2
+"931","ANK MK38","Offroad","UAD III","Asphalt",1.5
+"932","ANK MK38","Offroad","UAD III","Dirt",1.7
+"933","ANK MK38","Offroad","UAD III","Mud",1
+"934","ANK MK38","Offroad","UAD III Chains","Asphalt",1.2
+"935","ANK MK38","Offroad","UAD III Chains","Dirt",3
+"936","ANK MK38","Offroad","UAD III Chains","Mud",1.3
+"937","ANK MK38","Offroad","ANKO I","Asphalt",0.5
+"938","ANK MK38","Offroad","ANKO I","Dirt",3
+"939","ANK MK38","Offroad","ANKO I","Mud",1.7
+"940","ANK MK38","Offroad","UOD I","Asphalt",1
+"941","ANK MK38","Offroad","UOD I","Dirt",3
+"942","ANK MK38","Offroad","UOD I","Mud",1.5
+"943","ANK MK38","Offroad","UOD II","Asphalt",0.8
+"944","ANK MK38","Offroad","UOD II","Dirt",3
+"945","ANK MK38","Offroad","UOD II","Mud",1.9
+"946","ANK MK38","Offroad","UOD III","Asphalt",0.8
+"947","ANK MK38","Offroad","UOD III","Dirt",3.2
+"948","ANK MK38","Offroad","UOD III","Mud",1.5
+"949","ANK MK38","Offroad","AMHS I","Asphalt",0.5
+"950","ANK MK38","Offroad","AMHS I","Dirt",2
+"951","ANK MK38","Offroad","AMHS I","Mud",2.4
+"952","ANK MK38 CIVILIAN","Offroad","UHD I","Asphalt",3
+"953","ANK MK38 CIVILIAN","Offroad","UHD I","Dirt",1
+"954","ANK MK38 CIVILIAN","Offroad","UHD I","Mud",0.4
+"955","ANK MK38 CIVILIAN","Offroad","UHD II","Asphalt",3
+"956","ANK MK38 CIVILIAN","Offroad","UHD II","Dirt",1.2
+"957","ANK MK38 CIVILIAN","Offroad","UHD II","Mud",0.2
+"958","ANK MK38 CIVILIAN","Offroad","UHD III","Asphalt",3.2
+"959","ANK MK38 CIVILIAN","Offroad","UHD III","Dirt",1
+"960","ANK MK38 CIVILIAN","Offroad","UHD III","Mud",0.2
+"961","ANK MK38 CIVILIAN","Offroad","UAD I","Asphalt",1.9
+"962","ANK MK38 CIVILIAN","Offroad","UAD I","Dirt",1.5
+"963","ANK MK38 CIVILIAN","Offroad","UAD I","Mud",1
+"964","ANK MK38 CIVILIAN","Offroad","UAD II","Asphalt",1.5
+"965","ANK MK38 CIVILIAN","Offroad","UAD II","Dirt",1.5
+"966","ANK MK38 CIVILIAN","Offroad","UAD II","Mud",1.2
+"967","ANK MK38 CIVILIAN","Offroad","UAD III","Asphalt",1.5
+"968","ANK MK38 CIVILIAN","Offroad","UAD III","Dirt",1.7
+"969","ANK MK38 CIVILIAN","Offroad","UAD III","Mud",1
+"970","ANK MK38 CIVILIAN","Offroad","UAD III Chains","Asphalt",1.2
+"971","ANK MK38 CIVILIAN","Offroad","UAD III Chains","Dirt",3
+"972","ANK MK38 CIVILIAN","Offroad","UAD III Chains","Mud",1.3
+"973","ANK MK38 CIVILIAN","Offroad","ANKO I","Asphalt",0.5
+"974","ANK MK38 CIVILIAN","Offroad","ANKO I","Dirt",3
+"975","ANK MK38 CIVILIAN","Offroad","ANKO I","Mud",1.7
+"976","ANK MK38 CIVILIAN","Offroad","UOD I","Asphalt",1
+"977","ANK MK38 CIVILIAN","Offroad","UOD I","Dirt",3
+"978","ANK MK38 CIVILIAN","Offroad","UOD I","Mud",1.5
+"979","ANK MK38 CIVILIAN","Offroad","UOD II","Asphalt",0.8
+"980","ANK MK38 CIVILIAN","Offroad","UOD II","Dirt",3
+"981","ANK MK38 CIVILIAN","Offroad","UOD II","Mud",1.9
+"982","ANK MK38 CIVILIAN","Offroad","UOD III","Asphalt",0.8
+"983","ANK MK38 CIVILIAN","Offroad","UOD III","Dirt",3.2
+"984","ANK MK38 CIVILIAN","Offroad","UOD III","Mud",1.5
+"985","ANK MK38 CIVILIAN","Offroad","AMHS I","Asphalt",0.5
+"986","ANK MK38 CIVILIAN","Offroad","AMHS I","Dirt",2
+"987","ANK MK38 CIVILIAN","Offroad","AMHS I","Mud",2.4
+"988","Azov 43-191 ""Sprinter""","Offroad","ATHS I","Asphalt",1.5
+"989","Azov 43-191 ""Sprinter""","Offroad","ATHS I","Dirt",1.5
+"990","Azov 43-191 ""Sprinter""","Offroad","ATHS I","Mud",1.2
+"991","Azov 43-191 ""Sprinter""","Offroad","SPO I","Asphalt",1.5
+"992","Azov 43-191 ""Sprinter""","Offroad","SPO I","Dirt",1.5
+"993","Azov 43-191 ""Sprinter""","Offroad","SPO I","Mud",2
+"994","Azov 43-191 ""Sprinter""","Offroad","OHS I","Asphalt",1
+"995","Azov 43-191 ""Sprinter""","Offroad","OHS I","Dirt",3
+"996","Azov 43-191 ""Sprinter""","Offroad","OHS I","Mud",1.5
+"997","Azov 43-191 ""Sprinter""","Offroad","OHS II","Asphalt",0.8
+"998","Azov 43-191 ""Sprinter""","Offroad","OHS II","Dirt",3
+"999","Azov 43-191 ""Sprinter""","Offroad","OHS II","Mud",1.8
+"1000","Azov 43-191 ""Sprinter""","Offroad","MHS I","Asphalt",0.5
+"1001","Azov 43-191 ""Sprinter""","Offroad","MHS I","Dirt",2
+"1002","Azov 43-191 ""Sprinter""","Offroad","MHS I","Mud",2
+"1003","Azov 43-191 ""Sprinter""","Offroad","MHS I Chains","Asphalt",1.2
+"1004","Azov 43-191 ""Sprinter""","Offroad","MHS I Chains","Dirt",3
+"1005","Azov 43-191 ""Sprinter""","Offroad","MHS I Chains","Mud",1.3
+"1006","Azov 43-191 ""Sprinter""","Offroad","DMHS I","Asphalt",0.5
+"1007","Azov 43-191 ""Sprinter""","Offroad","DMHS I","Dirt",2
+"1008","Azov 43-191 ""Sprinter""","Offroad","DMHS I","Mud",2
+"1009","Azov 43-191 ""Sprinter""","Offroad","DMHS II","Asphalt",0.5
+"1010","Azov 43-191 ""Sprinter""","Offroad","DMHS II","Dirt",2
+"1011","Azov 43-191 ""Sprinter""","Offroad","DMHS II","Mud",2
+"1012","Azov 43-191 ""Sprinter""","Offroad","DMHS III","Asphalt",0.5
+"1013","Azov 43-191 ""Sprinter""","Offroad","DMHS III","Dirt",2
+"1014","Azov 43-191 ""Sprinter""","Offroad","DMHS III","Mud",2
+"1015","Azov 5319","Offroad","ATHS I","Asphalt",1.5
+"1016","Azov 5319","Offroad","ATHS I","Dirt",1.5
+"1017","Azov 5319","Offroad","ATHS I","Mud",1.2
+"1018","Azov 5319","Offroad","OHS I","Asphalt",1
+"1019","Azov 5319","Offroad","OHS I","Dirt",3
+"1020","Azov 5319","Offroad","OHS I","Mud",1.5
+"1021","Azov 5319","Offroad","OHS II","Asphalt",0.8
+"1022","Azov 5319","Offroad","OHS II","Dirt",3
+"1023","Azov 5319","Offroad","OHS II","Mud",1.8
+"1024","Azov 5319","Offroad","MHS I","Asphalt",0.5
+"1025","Azov 5319","Offroad","MHS I","Dirt",2
+"1026","Azov 5319","Offroad","MHS I","Mud",2
+"1027","Azov 5319","Offroad","MHS I Chains","Asphalt",1.2
+"1028","Azov 5319","Offroad","MHS I Chains","Dirt",3
+"1029","Azov 5319","Offroad","MHS I Chains","Mud",1.3
+"1030","Azov 5319","Offroad","DMHS I","Asphalt",0.5
+"1031","Azov 5319","Offroad","DMHS I","Dirt",2
+"1032","Azov 5319","Offroad","DMHS I","Mud",2
+"1033","Azov 5319","Offroad","DMHS II","Asphalt",0.5
+"1034","Azov 5319","Offroad","DMHS II","Dirt",2
+"1035","Azov 5319","Offroad","DMHS II","Mud",2
+"1036","Azov 5319","Offroad","DMHS III","Asphalt",0.5
+"1037","Azov 5319","Offroad","DMHS III","Dirt",2
+"1038","Azov 5319","Offroad","DMHS III","Mud",2
+"1039","Azov 64131","Offroad","ATHS I","Asphalt",1.5
+"1040","Azov 64131","Offroad","ATHS I","Dirt",1.5
+"1041","Azov 64131","Offroad","ATHS I","Mud",1.2
+"1042","Azov 64131","Offroad","OHS I","Asphalt",1
+"1043","Azov 64131","Offroad","OHS I","Dirt",3
+"1044","Azov 64131","Offroad","OHS I","Mud",1.5
+"1045","Azov 64131","Offroad","OHS II","Asphalt",0.8
+"1046","Azov 64131","Offroad","OHS II","Dirt",3
+"1047","Azov 64131","Offroad","OHS II","Mud",1.8
+"1048","Azov 64131","Offroad","MHS I","Asphalt",0.5
+"1049","Azov 64131","Offroad","MHS I","Dirt",2
+"1050","Azov 64131","Offroad","MHS I","Mud",2
+"1051","Azov 64131","Offroad","MHS I Chains","Asphalt",1.2
+"1052","Azov 64131","Offroad","MHS I Chains","Dirt",3
+"1053","Azov 64131","Offroad","MHS I Chains","Mud",1.3
+"1054","Azov 64131","Offroad","DMHS I","Asphalt",0.5
+"1055","Azov 64131","Offroad","DMHS I","Dirt",2
+"1056","Azov 64131","Offroad","DMHS I","Mud",2
+"1057","Azov 64131","Offroad","DMHS II","Asphalt",0.5
+"1058","Azov 64131","Offroad","DMHS II","Dirt",2
+"1059","Azov 64131","Offroad","DMHS II","Mud",2
+"1060","Azov 64131","Offroad","DMHS III","Asphalt",0.5
+"1061","Azov 64131","Offroad","DMHS III","Dirt",2
+"1062","Azov 64131","Offroad","DMHS III","Mud",2
+"1063","Freightliner 114SD","Offroad","UHD I","Asphalt",3
+"1064","Freightliner 114SD","Offroad","UHD I","Dirt",1
+"1065","Freightliner 114SD","Offroad","UHD I","Mud",0.4
+"1066","Freightliner 114SD","Offroad","UHD II","Asphalt",3
+"1067","Freightliner 114SD","Offroad","UHD II","Dirt",1.2
+"1068","Freightliner 114SD","Offroad","UHD II","Mud",0.2
+"1069","Freightliner 114SD","Offroad","UHD III","Asphalt",3.2
+"1070","Freightliner 114SD","Offroad","UHD III","Dirt",1
+"1071","Freightliner 114SD","Offroad","UHD III","Mud",0.2
+"1072","Freightliner 114SD","Offroad","UAD I","Asphalt",1.9
+"1073","Freightliner 114SD","Offroad","UAD I","Dirt",1.5
+"1074","Freightliner 114SD","Offroad","UAD I","Mud",1
+"1075","Freightliner 114SD","Offroad","UAD II","Asphalt",1.5
+"1076","Freightliner 114SD","Offroad","UAD II","Dirt",1.5
+"1077","Freightliner 114SD","Offroad","UAD II","Mud",1.2
+"1078","Freightliner 114SD","Offroad","UAD III","Asphalt",1.5
+"1079","Freightliner 114SD","Offroad","UAD III","Dirt",1.7
+"1080","Freightliner 114SD","Offroad","UAD III","Mud",1
+"1081","Freightliner 114SD","Offroad","UAD III Chains","Asphalt",1.2
+"1082","Freightliner 114SD","Offroad","UAD III Chains","Dirt",3
+"1083","Freightliner 114SD","Offroad","UAD III Chains","Mud",1.3
+"1084","Freightliner 114SD","Offroad","UOD I","Asphalt",1
+"1085","Freightliner 114SD","Offroad","UOD I","Dirt",3
+"1086","Freightliner 114SD","Offroad","UOD I","Mud",1.5
+"1087","Freightliner 114SD","Offroad","UOD II","Asphalt",0.8
+"1088","Freightliner 114SD","Offroad","UOD II","Dirt",3
+"1089","Freightliner 114SD","Offroad","UOD II","Mud",1.9
+"1090","Freightliner 114SD","Offroad","UOD III","Asphalt",0.8
+"1091","Freightliner 114SD","Offroad","UOD III","Dirt",3.2
+"1092","Freightliner 114SD","Offroad","UOD III","Mud",1.5
+"1093","Freightliner M916A1","Offroad","UHD I","Asphalt",3
+"1094","Freightliner M916A1","Offroad","UHD I","Dirt",1
+"1095","Freightliner M916A1","Offroad","UHD I","Mud",0.4
+"1096","Freightliner M916A1","Offroad","UHD II","Asphalt",3
+"1097","Freightliner M916A1","Offroad","UHD II","Dirt",1.2
+"1098","Freightliner M916A1","Offroad","UHD II","Mud",0.2
+"1099","Freightliner M916A1","Offroad","UHD III","Asphalt",3.2
+"1100","Freightliner M916A1","Offroad","UHD III","Dirt",1
+"1101","Freightliner M916A1","Offroad","UHD III","Mud",0.2
+"1102","Freightliner M916A1","Offroad","UAD I","Asphalt",1.9
+"1103","Freightliner M916A1","Offroad","UAD I","Dirt",1.5
+"1104","Freightliner M916A1","Offroad","UAD I","Mud",1
+"1105","Freightliner M916A1","Offroad","UAD II","Asphalt",1.5
+"1106","Freightliner M916A1","Offroad","UAD II","Dirt",1.5
+"1107","Freightliner M916A1","Offroad","UAD II","Mud",1.2
+"1108","Freightliner M916A1","Offroad","UAD III","Asphalt",1.5
+"1109","Freightliner M916A1","Offroad","UAD III","Dirt",1.7
+"1110","Freightliner M916A1","Offroad","UAD III","Mud",1
+"1111","Freightliner M916A1","Offroad","UAD III Chains","Asphalt",1.2
+"1112","Freightliner M916A1","Offroad","UAD III Chains","Dirt",3
+"1113","Freightliner M916A1","Offroad","UAD III Chains","Mud",1.3
+"1114","Freightliner M916A1","Offroad","UOD I","Asphalt",1
+"1115","Freightliner M916A1","Offroad","UOD I","Dirt",3
+"1116","Freightliner M916A1","Offroad","UOD I","Mud",1.5
+"1117","Freightliner M916A1","Offroad","UOD II","Asphalt",0.8
+"1118","Freightliner M916A1","Offroad","UOD II","Dirt",3
+"1119","Freightliner M916A1","Offroad","UOD II","Mud",1.9
+"1120","Freightliner M916A1","Offroad","UOD III","Asphalt",0.8
+"1121","Freightliner M916A1","Offroad","UOD III","Dirt",3.2
+"1122","Freightliner M916A1","Offroad","UOD III","Mud",1.5
+"1123","International Paystar 5070","Offroad","HMD I","Asphalt",3
+"1124","International Paystar 5070","Offroad","HMD I","Dirt",1
+"1125","International Paystar 5070","Offroad","HMD I","Mud",0.4
+"1126","International Paystar 5070","Offroad","HMD II","Asphalt",3
+"1127","International Paystar 5070","Offroad","HMD II","Dirt",1.2
+"1128","International Paystar 5070","Offroad","HMD II","Mud",0.2
+"1129","International Paystar 5070","Offroad","HMD III","Asphalt",3.2
+"1130","International Paystar 5070","Offroad","HMD III","Dirt",1
+"1131","International Paystar 5070","Offroad","HMD III","Mud",0.2
+"1132","International Paystar 5070","Offroad","ATMD I","Asphalt",1.9
+"1133","International Paystar 5070","Offroad","ATMD I","Dirt",1.5
+"1134","International Paystar 5070","Offroad","ATMD I","Mud",1
+"1135","International Paystar 5070","Offroad","ATMD II","Asphalt",1.5
+"1136","International Paystar 5070","Offroad","ATMD II","Dirt",1.5
+"1137","International Paystar 5070","Offroad","ATMD II","Mud",1.2
+"1138","International Paystar 5070","Offroad","ATMD III","Asphalt",1.5
+"1139","International Paystar 5070","Offroad","ATMD III","Dirt",1.7
+"1140","International Paystar 5070","Offroad","ATMD III","Mud",1
+"1141","International Paystar 5070","Offroad","ATHS I","Asphalt",1.5
+"1142","International Paystar 5070","Offroad","ATHS I","Dirt",1.5
+"1143","International Paystar 5070","Offroad","ATHS I","Mud",1.2
+"1144","International Paystar 5070","Offroad","OHD I","Asphalt",0.8
+"1145","International Paystar 5070","Offroad","OHD I","Dirt",3
+"1146","International Paystar 5070","Offroad","OHD I","Mud",1.9
+"1147","International Paystar 5070","Offroad","OHD II","Asphalt",0.8
+"1148","International Paystar 5070","Offroad","OHD II","Dirt",3.2
+"1149","International Paystar 5070","Offroad","OHD II","Mud",1.5
+"1150","International Paystar 5070","Offroad","OHD III","Asphalt",1
+"1151","International Paystar 5070","Offroad","OHD III","Dirt",3
+"1152","International Paystar 5070","Offroad","OHD III","Mud",1.5
+"1153","International Paystar 5070","Offroad","OHD II Chains","Asphalt",1.2
+"1154","International Paystar 5070","Offroad","OHD II Chains","Dirt",3
+"1155","International Paystar 5070","Offroad","OHD II Chains","Mud",1.3
+"1156","International Paystar 5070","Offroad","OHS I","Asphalt",1
+"1157","International Paystar 5070","Offroad","OHS I","Dirt",3
+"1158","International Paystar 5070","Offroad","OHS I","Mud",1.5
+"1159","International Paystar 5070","Offroad","OHS II","Asphalt",0.8
+"1160","International Paystar 5070","Offroad","OHS II","Dirt",3
+"1161","International Paystar 5070","Offroad","OHS II","Mud",1.8
+"1162","International Paystar 5070","Offroad","MHS I","Asphalt",0.5
+"1163","International Paystar 5070","Offroad","MHS I","Dirt",2
+"1164","International Paystar 5070","Offroad","MHS I","Mud",2
+"1165","International Paystar 5070","Offroad","MHS I Chains","Asphalt",1.2
+"1166","International Paystar 5070","Offroad","MHS I Chains","Dirt",3
+"1167","International Paystar 5070","Offroad","MHS I Chains","Mud",1.3
+"1168","International Paystar 5070","Offroad","DMHS I","Asphalt",0.5
+"1169","International Paystar 5070","Offroad","DMHS I","Dirt",2
+"1170","International Paystar 5070","Offroad","DMHS I","Mud",2
+"1171","International Paystar 5070","Offroad","DMHS II","Asphalt",0.5
+"1172","International Paystar 5070","Offroad","DMHS II","Dirt",2
+"1173","International Paystar 5070","Offroad","DMHS II","Mud",2
+"1174","International Paystar 5070","Offroad","DMHS III","Asphalt",0.5
+"1175","International Paystar 5070","Offroad","DMHS III","Dirt",2
+"1176","International Paystar 5070","Offroad","DMHS III","Mud",2
+"1177","KRS 58 ""Bandit""","Offroad","UHD I","Asphalt",3
+"1178","KRS 58 ""Bandit""","Offroad","UHD I","Dirt",1
+"1179","KRS 58 ""Bandit""","Offroad","UHD I","Mud",0.4
+"1180","KRS 58 ""Bandit""","Offroad","UHD II","Asphalt",3
+"1181","KRS 58 ""Bandit""","Offroad","UHD II","Dirt",1.2
+"1182","KRS 58 ""Bandit""","Offroad","UHD II","Mud",0.2
+"1183","KRS 58 ""Bandit""","Offroad","UHD III","Asphalt",3.2
+"1184","KRS 58 ""Bandit""","Offroad","UHD III","Dirt",1
+"1185","KRS 58 ""Bandit""","Offroad","UHD III","Mud",0.2
+"1186","KRS 58 ""Bandit""","Offroad","UAD I","Asphalt",1.9
+"1187","KRS 58 ""Bandit""","Offroad","UAD I","Dirt",1.5
+"1188","KRS 58 ""Bandit""","Offroad","UAD I","Mud",1
+"1189","KRS 58 ""Bandit""","Offroad","UAD II","Asphalt",1.5
+"1190","KRS 58 ""Bandit""","Offroad","UAD II","Dirt",1.5
+"1191","KRS 58 ""Bandit""","Offroad","UAD II","Mud",1.2
+"1192","KRS 58 ""Bandit""","Offroad","UAD III","Asphalt",1.5
+"1193","KRS 58 ""Bandit""","Offroad","UAD III","Dirt",1.7
+"1194","KRS 58 ""Bandit""","Offroad","UAD III","Mud",1
+"1195","KRS 58 ""Bandit""","Offroad","UAD III Chains","Asphalt",1.2
+"1196","KRS 58 ""Bandit""","Offroad","UAD III Chains","Dirt",3
+"1197","KRS 58 ""Bandit""","Offroad","UAD III Chains","Mud",1.3
+"1198","KRS 58 ""Bandit""","Offroad","OHD I","Asphalt",0.8
+"1199","KRS 58 ""Bandit""","Offroad","OHD I","Dirt",3
+"1200","KRS 58 ""Bandit""","Offroad","OHD I","Mud",1.9
+"1201","KRS 58 ""Bandit""","Offroad","OHD II","Asphalt",0.8
+"1202","KRS 58 ""Bandit""","Offroad","OHD II","Dirt",3.2
+"1203","KRS 58 ""Bandit""","Offroad","OHD II","Mud",1.5
+"1204","KRS 58 ""Bandit""","Offroad","OHD III","Asphalt",1
+"1205","KRS 58 ""Bandit""","Offroad","OHD III","Dirt",3
+"1206","KRS 58 ""Bandit""","Offroad","OHD III","Mud",1.5
+"1207","KRS 58 ""Bandit""","Offroad","AMHS I","Asphalt",0.5
+"1208","KRS 58 ""Bandit""","Offroad","AMHS I","Dirt",2
+"1209","KRS 58 ""Bandit""","Offroad","AMHS I","Mud",2.4
+"1210","Royal BM17","Offroad","UHD I","Asphalt",3
+"1211","Royal BM17","Offroad","UHD I","Dirt",1
+"1212","Royal BM17","Offroad","UHD I","Mud",0.4
+"1213","Royal BM17","Offroad","UHD II","Asphalt",3
+"1214","Royal BM17","Offroad","UHD II","Dirt",1.2
+"1215","Royal BM17","Offroad","UHD II","Mud",0.2
+"1216","Royal BM17","Offroad","UHD III","Asphalt",3.2
+"1217","Royal BM17","Offroad","UHD III","Dirt",1
+"1218","Royal BM17","Offroad","UHD III","Mud",0.2
+"1219","Royal BM17","Offroad","UAD I","Asphalt",1.9
+"1220","Royal BM17","Offroad","UAD I","Dirt",1.5
+"1221","Royal BM17","Offroad","UAD I","Mud",1
+"1222","Royal BM17","Offroad","UAD II","Asphalt",1.5
+"1223","Royal BM17","Offroad","UAD II","Dirt",1.5
+"1224","Royal BM17","Offroad","UAD II","Mud",1.2
+"1225","Royal BM17","Offroad","UAD III","Asphalt",1.5
+"1226","Royal BM17","Offroad","UAD III","Dirt",1.7
+"1227","Royal BM17","Offroad","UAD III","Mud",1
+"1228","Royal BM17","Offroad","UAD III Chains","Asphalt",1.2
+"1229","Royal BM17","Offroad","UAD III Chains","Dirt",3
+"1230","Royal BM17","Offroad","UAD III Chains","Mud",1.3
+"1231","Royal BM17","Offroad","UOD I","Asphalt",1
+"1232","Royal BM17","Offroad","UOD I","Dirt",3
+"1233","Royal BM17","Offroad","UOD I","Mud",1.5
+"1234","Royal BM17","Offroad","UOD II","Asphalt",0.8
+"1235","Royal BM17","Offroad","UOD II","Dirt",3
+"1236","Royal BM17","Offroad","UOD II","Mud",1.9
+"1237","Royal BM17","Offroad","UOD III","Asphalt",0.8
+"1238","Royal BM17","Offroad","UOD III","Dirt",3.2
+"1239","Royal BM17","Offroad","UOD III","Mud",1.5
+"1240","Step 310E","Offroad","UHD I","Asphalt",3
+"1241","Step 310E","Offroad","UHD I","Dirt",1
+"1242","Step 310E","Offroad","UHD I","Mud",0.4
+"1243","Step 310E","Offroad","UHD II","Asphalt",3
+"1244","Step 310E","Offroad","UHD II","Dirt",1.2
+"1245","Step 310E","Offroad","UHD II","Mud",0.2
+"1246","Step 310E","Offroad","UHD III","Asphalt",3.2
+"1247","Step 310E","Offroad","UHD III","Dirt",1
+"1248","Step 310E","Offroad","UHD III","Mud",0.2
+"1249","Step 310E","Offroad","UAD I","Asphalt",1.9
+"1250","Step 310E","Offroad","UAD I","Dirt",1.5
+"1251","Step 310E","Offroad","UAD I","Mud",1
+"1252","Step 310E","Offroad","UAD II","Asphalt",1.5
+"1253","Step 310E","Offroad","UAD II","Dirt",1.5
+"1254","Step 310E","Offroad","UAD II","Mud",1.2
+"1255","Step 310E","Offroad","UAD III","Asphalt",1.5
+"1256","Step 310E","Offroad","UAD III","Dirt",1.7
+"1257","Step 310E","Offroad","UAD III","Mud",1
+"1258","Step 310E","Offroad","UAD III Chains","Asphalt",1.2
+"1259","Step 310E","Offroad","UAD III Chains","Dirt",3
+"1260","Step 310E","Offroad","UAD III Chains","Mud",1.3
+"1261","Step 310E","Offroad","UOD I","Asphalt",1
+"1262","Step 310E","Offroad","UOD I","Dirt",3
+"1263","Step 310E","Offroad","UOD I","Mud",1.5
+"1264","Step 310E","Offroad","UOD II","Asphalt",0.8
+"1265","Step 310E","Offroad","UOD II","Dirt",3
+"1266","Step 310E","Offroad","UOD II","Mud",1.9
+"1267","Step 310E","Offroad","UOD III","Asphalt",0.8
+"1268","Step 310E","Offroad","UOD III","Dirt",3.2
+"1269","Step 310E","Offroad","UOD III","Mud",1.5
+"1270","Step 33-64 ""Crocodile""","Offroad","UHD I","Asphalt",3
+"1271","Step 33-64 ""Crocodile""","Offroad","UHD I","Dirt",1
+"1272","Step 33-64 ""Crocodile""","Offroad","UHD I","Mud",0.4
+"1273","Step 33-64 ""Crocodile""","Offroad","UHD II","Asphalt",3
+"1274","Step 33-64 ""Crocodile""","Offroad","UHD II","Dirt",1.2
+"1275","Step 33-64 ""Crocodile""","Offroad","UHD II","Mud",0.2
+"1276","Step 33-64 ""Crocodile""","Offroad","UHD III","Asphalt",3.2
+"1277","Step 33-64 ""Crocodile""","Offroad","UHD III","Dirt",1
+"1278","Step 33-64 ""Crocodile""","Offroad","UHD III","Mud",0.2
+"1279","Step 33-64 ""Crocodile""","Offroad","UAD I","Asphalt",1.9
+"1280","Step 33-64 ""Crocodile""","Offroad","UAD I","Dirt",1.5
+"1281","Step 33-64 ""Crocodile""","Offroad","UAD I","Mud",1
+"1282","Step 33-64 ""Crocodile""","Offroad","UAD II","Asphalt",1.5
+"1283","Step 33-64 ""Crocodile""","Offroad","UAD II","Dirt",1.5
+"1284","Step 33-64 ""Crocodile""","Offroad","UAD II","Mud",1.2
+"1285","Step 33-64 ""Crocodile""","Offroad","UAD III","Asphalt",1.5
+"1286","Step 33-64 ""Crocodile""","Offroad","UAD III","Dirt",1.7
+"1287","Step 33-64 ""Crocodile""","Offroad","UAD III","Mud",1
+"1288","Step 33-64 ""Crocodile""","Offroad","UAD III Chains","Asphalt",1.2
+"1289","Step 33-64 ""Crocodile""","Offroad","UAD III Chains","Dirt",3
+"1290","Step 33-64 ""Crocodile""","Offroad","UAD III Chains","Mud",1.3
+"1291","Step 33-64 ""Crocodile""","Offroad","UCD I","Asphalt",1.5
+"1292","Step 33-64 ""Crocodile""","Offroad","UCD I","Dirt",1.4
+"1293","Step 33-64 ""Crocodile""","Offroad","UCD I","Mud",1.5
+"1294","Step 33-64 ""Crocodile""","Offroad","UOD I","Asphalt",1
+"1295","Step 33-64 ""Crocodile""","Offroad","UOD I","Dirt",3
+"1296","Step 33-64 ""Crocodile""","Offroad","UOD I","Mud",1.5
+"1297","Step 33-64 ""Crocodile""","Offroad","UOD II","Asphalt",0.8
+"1298","Step 33-64 ""Crocodile""","Offroad","UOD II","Dirt",3
+"1299","Step 33-64 ""Crocodile""","Offroad","UOD II","Mud",1.9
+"1300","Step 33-64 ""Crocodile""","Offroad","UOD III","Asphalt",0.8
+"1301","Step 33-64 ""Crocodile""","Offroad","UOD III","Dirt",3.2
+"1302","Step 33-64 ""Crocodile""","Offroad","UOD III","Mud",1.5
+"1303","Step 33-64 ""Crocodile""","Offroad","TMHS I","Asphalt",0.5
+"1304","Step 33-64 ""Crocodile""","Offroad","TMHS I","Dirt",2
+"1305","Step 33-64 ""Crocodile""","Offroad","TMHS I","Mud",2.4
+"1306","Step 39331 ""Pike""","Offroad","HMD I","Asphalt",3
+"1307","Step 39331 ""Pike""","Offroad","HMD I","Dirt",1
+"1308","Step 39331 ""Pike""","Offroad","HMD I","Mud",0.4
+"1309","Step 39331 ""Pike""","Offroad","HMD II","Asphalt",3
+"1310","Step 39331 ""Pike""","Offroad","HMD II","Dirt",1.2
+"1311","Step 39331 ""Pike""","Offroad","HMD II","Mud",0.2
+"1312","Step 39331 ""Pike""","Offroad","HMD III","Asphalt",3.2
+"1313","Step 39331 ""Pike""","Offroad","HMD III","Dirt",1
+"1314","Step 39331 ""Pike""","Offroad","HMD III","Mud",0.2
+"1315","Step 39331 ""Pike""","Offroad","ATMD I","Asphalt",1.9
+"1316","Step 39331 ""Pike""","Offroad","ATMD I","Dirt",1.5
+"1317","Step 39331 ""Pike""","Offroad","ATMD I","Mud",1
+"1318","Step 39331 ""Pike""","Offroad","ATMD II","Asphalt",1.5
+"1319","Step 39331 ""Pike""","Offroad","ATMD II","Dirt",1.5
+"1320","Step 39331 ""Pike""","Offroad","ATMD II","Mud",1.2
+"1321","Step 39331 ""Pike""","Offroad","ATMD III","Asphalt",1.5
+"1322","Step 39331 ""Pike""","Offroad","ATMD III","Dirt",1.7
+"1323","Step 39331 ""Pike""","Offroad","ATMD III","Mud",1
+"1324","Step 39331 ""Pike""","Offroad","UCD I","Asphalt",1.5
+"1325","Step 39331 ""Pike""","Offroad","UCD I","Dirt",1.4
+"1326","Step 39331 ""Pike""","Offroad","UCD I","Mud",1.5
+"1327","Step 39331 ""Pike""","Offroad","MHS II","Asphalt",0.5
+"1328","Step 39331 ""Pike""","Offroad","MHS II","Dirt",2
+"1329","Step 39331 ""Pike""","Offroad","MHS II","Mud",2.4
+"1330","Step 39331 ""Pike""","Offroad","MHS III","Asphalt",0.5
+"1331","Step 39331 ""Pike""","Offroad","MHS III","Dirt",2.4
+"1332","Step 39331 ""Pike""","Offroad","MHS III","Mud",2
+"1333","Tatra 805","Offroad","UHD I","Asphalt",3
+"1334","Tatra 805","Offroad","UHD I","Dirt",1
+"1335","Tatra 805","Offroad","UHD I","Mud",0.4
+"1336","Tatra 805","Offroad","UHD II","Asphalt",3
+"1337","Tatra 805","Offroad","UHD II","Dirt",1.2
+"1338","Tatra 805","Offroad","UHD II","Mud",0.2
+"1339","Tatra 805","Offroad","UHD III","Asphalt",3.2
+"1340","Tatra 805","Offroad","UHD III","Dirt",1
+"1341","Tatra 805","Offroad","UHD III","Mud",0.2
+"1342","Tatra 805","Offroad","UAD I","Asphalt",1.9
+"1343","Tatra 805","Offroad","UAD I","Dirt",1.5
+"1344","Tatra 805","Offroad","UAD I","Mud",1
+"1345","Tatra 805","Offroad","UAD II","Asphalt",1.5
+"1346","Tatra 805","Offroad","UAD II","Dirt",1.5
+"1347","Tatra 805","Offroad","UAD II","Mud",1.2
+"1348","Tatra 805","Offroad","UAD III","Asphalt",1.5
+"1349","Tatra 805","Offroad","UAD III","Dirt",1.7
+"1350","Tatra 805","Offroad","UAD III","Mud",1
+"1351","Tatra 805","Offroad","UAD III Chains","Asphalt",1.2
+"1352","Tatra 805","Offroad","UAD III Chains","Dirt",3
+"1353","Tatra 805","Offroad","UAD III Chains","Mud",1.3
+"1354","Tatra 805","Offroad","UOD I","Asphalt",1
+"1355","Tatra 805","Offroad","UOD I","Dirt",3
+"1356","Tatra 805","Offroad","UOD I","Mud",1.5
+"1357","Tatra 805","Offroad","UOD II","Asphalt",0.8
+"1358","Tatra 805","Offroad","UOD II","Dirt",3
+"1359","Tatra 805","Offroad","UOD II","Mud",1.9
+"1360","Tatra 805","Offroad","UOD III","Asphalt",0.8
+"1361","Tatra 805","Offroad","UOD III","Dirt",3.2
+"1362","Tatra 805","Offroad","UOD III","Mud",1.5
+"1363","Tatra 805","Offroad","AMHS I","Asphalt",0.5
+"1364","Tatra 805","Offroad","AMHS I","Dirt",2
+"1365","Tatra 805","Offroad","AMHS I","Mud",2.4
+"1366","Tatra PHOENIX","Offroad","ATHS I","Asphalt",1.5
+"1367","Tatra PHOENIX","Offroad","ATHS I","Dirt",1.5
+"1368","Tatra PHOENIX","Offroad","ATHS I","Mud",1.2
+"1369","Tatra PHOENIX","Offroad","OHS I","Asphalt",1
+"1370","Tatra PHOENIX","Offroad","OHS I","Dirt",3
+"1371","Tatra PHOENIX","Offroad","OHS I","Mud",1.5
+"1372","Tatra PHOENIX","Offroad","OHS II","Asphalt",0.8
+"1373","Tatra PHOENIX","Offroad","OHS II","Dirt",3
+"1374","Tatra PHOENIX","Offroad","OHS II","Mud",1.8
+"1375","Tatra PHOENIX","Offroad","MSH I","Asphalt",0.5
+"1376","Tatra PHOENIX","Offroad","MSH I","Dirt",1.7
+"1377","Tatra PHOENIX","Offroad","MSH I","Mud",3
+"1378","Tatra PHOENIX","Offroad","MHS I","Asphalt",0.5
+"1379","Tatra PHOENIX","Offroad","MHS I","Dirt",2
+"1380","Tatra PHOENIX","Offroad","MHS I","Mud",2
+"1381","Tatra PHOENIX","Offroad","MHS I Chains","Asphalt",1.2
+"1382","Tatra PHOENIX","Offroad","MHS I Chains","Dirt",3
+"1383","Tatra PHOENIX","Offroad","MHS I Chains","Mud",1.3
+"1384","Tatra PHOENIX","Offroad","DMHS I","Asphalt",0.5
+"1385","Tatra PHOENIX","Offroad","DMHS I","Dirt",2
+"1386","Tatra PHOENIX","Offroad","DMHS I","Mud",2
+"1387","Tatra PHOENIX","Offroad","DMHS II","Asphalt",0.5
+"1388","Tatra PHOENIX","Offroad","DMHS II","Dirt",2
+"1389","Tatra PHOENIX","Offroad","DMHS II","Mud",2
+"1390","Tatra PHOENIX","Offroad","DMHS III","Asphalt",0.5
+"1391","Tatra PHOENIX","Offroad","DMHS III","Dirt",2
+"1392","Tatra PHOENIX","Offroad","DMHS III","Mud",2
+"1393","Tayga 6436","Offroad","HMD I","Asphalt",3
+"1394","Tayga 6436","Offroad","HMD I","Dirt",1
+"1395","Tayga 6436","Offroad","HMD I","Mud",0.4
+"1396","Tayga 6436","Offroad","HMD II","Asphalt",3
+"1397","Tayga 6436","Offroad","HMD II","Dirt",1.2
+"1398","Tayga 6436","Offroad","HMD II","Mud",0.2
+"1399","Tayga 6436","Offroad","HMD III","Asphalt",3.2
+"1400","Tayga 6436","Offroad","HMD III","Dirt",1
+"1401","Tayga 6436","Offroad","HMD III","Mud",0.2
+"1402","Tayga 6436","Offroad","ATMD I","Asphalt",1.9
+"1403","Tayga 6436","Offroad","ATMD I","Dirt",1.5
+"1404","Tayga 6436","Offroad","ATMD I","Mud",1
+"1405","Tayga 6436","Offroad","ATMD II","Asphalt",1.5
+"1406","Tayga 6436","Offroad","ATMD II","Dirt",1.5
+"1407","Tayga 6436","Offroad","ATMD II","Mud",1.2
+"1408","Tayga 6436","Offroad","ATMD III","Asphalt",1.5
+"1409","Tayga 6436","Offroad","ATMD III","Dirt",1.7
+"1410","Tayga 6436","Offroad","ATMD III","Mud",1
+"1411","Tayga 6436","Offroad","ATHS I","Asphalt",1.5
+"1412","Tayga 6436","Offroad","ATHS I","Dirt",1.5
+"1413","Tayga 6436","Offroad","ATHS I","Mud",1.2
+"1414","Tayga 6436","Offroad","OHD I","Asphalt",0.8
+"1415","Tayga 6436","Offroad","OHD I","Dirt",3
+"1416","Tayga 6436","Offroad","OHD I","Mud",1.9
+"1417","Tayga 6436","Offroad","OHD II","Asphalt",0.8
+"1418","Tayga 6436","Offroad","OHD II","Dirt",3.2
+"1419","Tayga 6436","Offroad","OHD II","Mud",1.5
+"1420","Tayga 6436","Offroad","OHD III","Asphalt",1
+"1421","Tayga 6436","Offroad","OHD III","Dirt",3
+"1422","Tayga 6436","Offroad","OHD III","Mud",1.5
+"1423","Tayga 6436","Offroad","OHD II Chains","Asphalt",1.2
+"1424","Tayga 6436","Offroad","OHD II Chains","Dirt",3
+"1425","Tayga 6436","Offroad","OHD II Chains","Mud",1.3
+"1426","Tayga 6436","Offroad","OHS I","Asphalt",1
+"1427","Tayga 6436","Offroad","OHS I","Dirt",3
+"1428","Tayga 6436","Offroad","OHS I","Mud",1.5
+"1429","Tayga 6436","Offroad","OHS II","Asphalt",0.8
+"1430","Tayga 6436","Offroad","OHS II","Dirt",3
+"1431","Tayga 6436","Offroad","OHS II","Mud",1.8
+"1432","Tayga 6436","Offroad","MHS I","Asphalt",0.5
+"1433","Tayga 6436","Offroad","MHS I","Dirt",2
+"1434","Tayga 6436","Offroad","MHS I","Mud",2
+"1435","Tayga 6436","Offroad","MHS II","Asphalt",0.5
+"1436","Tayga 6436","Offroad","MHS II","Dirt",2
+"1437","Tayga 6436","Offroad","MHS II","Mud",2.4
+"1438","Tayga 6436","Offroad","MHS III","Asphalt",0.5
+"1439","Tayga 6436","Offroad","MHS III","Dirt",2.4
+"1440","Tayga 6436","Offroad","MHS III","Mud",2
+"1441","Tayga 6436","Offroad","MHS I Chains","Asphalt",1.2
+"1442","Tayga 6436","Offroad","MHS I Chains","Dirt",3
+"1443","Tayga 6436","Offroad","MHS I Chains","Mud",1.3
+"1444","Tayga 6436","Offroad","TMHS I","Asphalt",0.5
+"1445","Tayga 6436","Offroad","TMHS I","Dirt",2
+"1446","Tayga 6436","Offroad","TMHS I","Mud",2.4
+"1447","Tayga 6436","Offroad","DMHS I","Asphalt",0.5
+"1448","Tayga 6436","Offroad","DMHS I","Dirt",2
+"1449","Tayga 6436","Offroad","DMHS I","Mud",2
+"1450","Tayga 6436","Offroad","DMHS II","Asphalt",0.5
+"1451","Tayga 6436","Offroad","DMHS II","Dirt",2
+"1452","Tayga 6436","Offroad","DMHS II","Mud",2
+"1453","Tayga 6436","Offroad","DMHS III","Asphalt",0.5
+"1454","Tayga 6436","Offroad","DMHS III","Dirt",2
+"1455","Tayga 6436","Offroad","DMHS III","Mud",2
+"1456","Tayga 6455B","Offroad","ATHS I","Asphalt",1.5
+"1457","Tayga 6455B","Offroad","ATHS I","Dirt",1.5
+"1458","Tayga 6455B","Offroad","ATHS I","Mud",1.2
+"1459","Tayga 6455B","Offroad","OHS I","Asphalt",1
+"1460","Tayga 6455B","Offroad","OHS I","Dirt",3
+"1461","Tayga 6455B","Offroad","OHS I","Mud",1.5
+"1462","Tayga 6455B","Offroad","OHS II","Asphalt",0.8
+"1463","Tayga 6455B","Offroad","OHS II","Dirt",3
+"1464","Tayga 6455B","Offroad","OHS II","Mud",1.8
+"1465","Tayga 6455B","Offroad","MHS I","Asphalt",0.5
+"1466","Tayga 6455B","Offroad","MHS I","Dirt",2
+"1467","Tayga 6455B","Offroad","MHS I","Mud",2
+"1468","Tayga 6455B","Offroad","MHS I Chains","Asphalt",1.2
+"1469","Tayga 6455B","Offroad","MHS I Chains","Dirt",3
+"1470","Tayga 6455B","Offroad","MHS I Chains","Mud",1.3
+"1471","Tayga 6455B","Offroad","TMHS I","Asphalt",0.5
+"1472","Tayga 6455B","Offroad","TMHS I","Dirt",2
+"1473","Tayga 6455B","Offroad","TMHS I","Mud",2.4
+"1474","Tayga 6455B","Offroad","DMHS I","Asphalt",0.5
+"1475","Tayga 6455B","Offroad","DMHS I","Dirt",2
+"1476","Tayga 6455B","Offroad","DMHS I","Mud",2
+"1477","Tayga 6455B","Offroad","DMHS II","Asphalt",0.5
+"1478","Tayga 6455B","Offroad","DMHS II","Dirt",2
+"1479","Tayga 6455B","Offroad","DMHS II","Mud",2
+"1480","Tayga 6455B","Offroad","DMHS III","Asphalt",0.5
+"1481","Tayga 6455B","Offroad","DMHS III","Dirt",2
+"1482","Tayga 6455B","Offroad","DMHS III","Mud",2
+"1483","TUZ 108 ""Warthog""","Offroad","UHD I","Asphalt",3
+"1484","TUZ 108 ""Warthog""","Offroad","UHD I","Dirt",1
+"1485","TUZ 108 ""Warthog""","Offroad","UHD I","Mud",0.4
+"1486","TUZ 108 ""Warthog""","Offroad","UHD II","Asphalt",3
+"1487","TUZ 108 ""Warthog""","Offroad","UHD II","Dirt",1.2
+"1488","TUZ 108 ""Warthog""","Offroad","UHD II","Mud",0.2
+"1489","TUZ 108 ""Warthog""","Offroad","UHD III","Asphalt",3.2
+"1490","TUZ 108 ""Warthog""","Offroad","UHD III","Dirt",1
+"1491","TUZ 108 ""Warthog""","Offroad","UHD III","Mud",0.2
+"1492","TUZ 108 ""Warthog""","Offroad","UAD I","Asphalt",1.9
+"1493","TUZ 108 ""Warthog""","Offroad","UAD I","Dirt",1.5
+"1494","TUZ 108 ""Warthog""","Offroad","UAD I","Mud",1
+"1495","TUZ 108 ""Warthog""","Offroad","UAD II","Asphalt",1.5
+"1496","TUZ 108 ""Warthog""","Offroad","UAD II","Dirt",1.5
+"1497","TUZ 108 ""Warthog""","Offroad","UAD II","Mud",1.2
+"1498","TUZ 108 ""Warthog""","Offroad","UAD III","Asphalt",1.5
+"1499","TUZ 108 ""Warthog""","Offroad","UAD III","Dirt",1.7
+"1500","TUZ 108 ""Warthog""","Offroad","UAD III","Mud",1
+"1501","TUZ 108 ""Warthog""","Offroad","UAD III Chains","Asphalt",1.2
+"1502","TUZ 108 ""Warthog""","Offroad","UAD III Chains","Dirt",3
+"1503","TUZ 108 ""Warthog""","Offroad","UAD III Chains","Mud",1.3
+"1504","TUZ 108 ""Warthog""","Offroad","UOD I","Asphalt",1
+"1505","TUZ 108 ""Warthog""","Offroad","UOD I","Dirt",3
+"1506","TUZ 108 ""Warthog""","Offroad","UOD I","Mud",1.5
+"1507","TUZ 108 ""Warthog""","Offroad","UOD II","Asphalt",0.8
+"1508","TUZ 108 ""Warthog""","Offroad","UOD II","Dirt",3
+"1509","TUZ 108 ""Warthog""","Offroad","UOD II","Mud",1.9
+"1510","TUZ 108 ""Warthog""","Offroad","UOD III","Asphalt",0.8
+"1511","TUZ 108 ""Warthog""","Offroad","UOD III","Dirt",3.2
+"1512","TUZ 108 ""Warthog""","Offroad","UOD III","Mud",1.5
+"1513","TUZ 108 ""Warthog""","Offroad","AMHS I","Asphalt",0.5
+"1514","TUZ 108 ""Warthog""","Offroad","AMHS I","Dirt",2
+"1515","TUZ 108 ""Warthog""","Offroad","AMHS I","Mud",2.4
+"1516","TUZ 16 ""Actaeon""","Offroad","UHD I","Asphalt",3
+"1517","TUZ 16 ""Actaeon""","Offroad","UHD I","Dirt",1
+"1518","TUZ 16 ""Actaeon""","Offroad","UHD I","Mud",0.4
+"1519","TUZ 16 ""Actaeon""","Offroad","UHD II","Asphalt",3
+"1520","TUZ 16 ""Actaeon""","Offroad","UHD II","Dirt",1.2
+"1521","TUZ 16 ""Actaeon""","Offroad","UHD II","Mud",0.2
+"1522","TUZ 16 ""Actaeon""","Offroad","UHD III","Asphalt",3.2
+"1523","TUZ 16 ""Actaeon""","Offroad","UHD III","Dirt",1
+"1524","TUZ 16 ""Actaeon""","Offroad","UHD III","Mud",0.2
+"1525","TUZ 16 ""Actaeon""","Offroad","UAD I","Asphalt",1.9
+"1526","TUZ 16 ""Actaeon""","Offroad","UAD I","Dirt",1.5
+"1527","TUZ 16 ""Actaeon""","Offroad","UAD I","Mud",1
+"1528","TUZ 16 ""Actaeon""","Offroad","UAD II","Asphalt",1.5
+"1529","TUZ 16 ""Actaeon""","Offroad","UAD II","Dirt",1.5
+"1530","TUZ 16 ""Actaeon""","Offroad","UAD II","Mud",1.2
+"1531","TUZ 16 ""Actaeon""","Offroad","UAD III","Asphalt",1.5
+"1532","TUZ 16 ""Actaeon""","Offroad","UAD III","Dirt",1.7
+"1533","TUZ 16 ""Actaeon""","Offroad","UAD III","Mud",1
+"1534","TUZ 16 ""Actaeon""","Offroad","UAD III Chains","Asphalt",1.2
+"1535","TUZ 16 ""Actaeon""","Offroad","UAD III Chains","Dirt",3
+"1536","TUZ 16 ""Actaeon""","Offroad","UAD III Chains","Mud",1.3
+"1537","TUZ 16 ""Actaeon""","Offroad","UOD I","Asphalt",1
+"1538","TUZ 16 ""Actaeon""","Offroad","UOD I","Dirt",3
+"1539","TUZ 16 ""Actaeon""","Offroad","UOD I","Mud",1.5
+"1540","TUZ 16 ""Actaeon""","Offroad","UOD II","Asphalt",0.8
+"1541","TUZ 16 ""Actaeon""","Offroad","UOD II","Dirt",3
+"1542","TUZ 16 ""Actaeon""","Offroad","UOD II","Mud",1.9
+"1543","TUZ 16 ""Actaeon""","Offroad","UOD III","Asphalt",0.8
+"1544","TUZ 16 ""Actaeon""","Offroad","UOD III","Dirt",3.2
+"1545","TUZ 16 ""Actaeon""","Offroad","UOD III","Mud",1.5
+"1546","TUZ 16 ""Actaeon""","Offroad","AMHS I","Asphalt",0.5
+"1547","TUZ 16 ""Actaeon""","Offroad","AMHS I","Dirt",2
+"1548","TUZ 16 ""Actaeon""","Offroad","AMHS I","Mud",2.4
+"1549","Voron AE-4380","Offroad","HMD I","Asphalt",3
+"1550","Voron AE-4380","Offroad","HMD I","Dirt",1
+"1551","Voron AE-4380","Offroad","HMD I","Mud",0.4
+"1552","Voron AE-4380","Offroad","HMD II","Asphalt",3
+"1553","Voron AE-4380","Offroad","HMD II","Dirt",1.2
+"1554","Voron AE-4380","Offroad","HMD II","Mud",0.2
+"1555","Voron AE-4380","Offroad","HMD III","Asphalt",3.2
+"1556","Voron AE-4380","Offroad","HMD III","Dirt",1
+"1557","Voron AE-4380","Offroad","HMD III","Mud",0.2
+"1558","Voron AE-4380","Offroad","ATMD I","Asphalt",1.9
+"1559","Voron AE-4380","Offroad","ATMD I","Dirt",1.5
+"1560","Voron AE-4380","Offroad","ATMD I","Mud",1
+"1561","Voron AE-4380","Offroad","ATMD II","Asphalt",1.5
+"1562","Voron AE-4380","Offroad","ATMD II","Dirt",1.5
+"1563","Voron AE-4380","Offroad","ATMD II","Mud",1.2
+"1564","Voron AE-4380","Offroad","ATMD III","Asphalt",1.5
+"1565","Voron AE-4380","Offroad","ATMD III","Dirt",1.7
+"1566","Voron AE-4380","Offroad","ATMD III","Mud",1
+"1567","Voron AE-4380","Offroad","ATHS I","Asphalt",1.5
+"1568","Voron AE-4380","Offroad","ATHS I","Dirt",1.5
+"1569","Voron AE-4380","Offroad","ATHS I","Mud",1.2
+"1570","Voron AE-4380","Offroad","OHD I","Asphalt",0.8
+"1571","Voron AE-4380","Offroad","OHD I","Dirt",3
+"1572","Voron AE-4380","Offroad","OHD I","Mud",1.9
+"1573","Voron AE-4380","Offroad","OHD II","Asphalt",0.8
+"1574","Voron AE-4380","Offroad","OHD II","Dirt",3.2
+"1575","Voron AE-4380","Offroad","OHD II","Mud",1.5
+"1576","Voron AE-4380","Offroad","OHD III","Asphalt",1
+"1577","Voron AE-4380","Offroad","OHD III","Dirt",3
+"1578","Voron AE-4380","Offroad","OHD III","Mud",1.5
+"1579","Voron AE-4380","Offroad","OHD II Chains","Asphalt",1.2
+"1580","Voron AE-4380","Offroad","OHD II Chains","Dirt",3
+"1581","Voron AE-4380","Offroad","OHD II Chains","Mud",1.3
+"1582","Voron AE-4380","Offroad","OHS I","Asphalt",1
+"1583","Voron AE-4380","Offroad","OHS I","Dirt",3
+"1584","Voron AE-4380","Offroad","OHS I","Mud",1.5
+"1585","Voron AE-4380","Offroad","OHS II","Asphalt",0.8
+"1586","Voron AE-4380","Offroad","OHS II","Dirt",3
+"1587","Voron AE-4380","Offroad","OHS II","Mud",1.8
+"1588","Voron AE-4380","Offroad","MHS I","Asphalt",0.5
+"1589","Voron AE-4380","Offroad","MHS I","Dirt",2
+"1590","Voron AE-4380","Offroad","MHS I","Mud",2
+"1591","Voron AE-4380","Offroad","MHS II","Asphalt",0.5
+"1592","Voron AE-4380","Offroad","MHS II","Dirt",2
+"1593","Voron AE-4380","Offroad","MHS II","Mud",2.4
+"1594","Voron AE-4380","Offroad","MHS III","Asphalt",0.5
+"1595","Voron AE-4380","Offroad","MHS III","Dirt",2.4
+"1596","Voron AE-4380","Offroad","MHS III","Mud",2
+"1597","Voron AE-4380","Offroad","MHS I Chains","Asphalt",1.2
+"1598","Voron AE-4380","Offroad","MHS I Chains","Dirt",3
+"1599","Voron AE-4380","Offroad","MHS I Chains","Mud",1.3
+"1600","Voron AE-4380","Offroad","DMHS I","Asphalt",0.5
+"1601","Voron AE-4380","Offroad","DMHS I","Dirt",2
+"1602","Voron AE-4380","Offroad","DMHS I","Mud",2
+"1603","Voron AE-4380","Offroad","DMHS II","Asphalt",0.5
+"1604","Voron AE-4380","Offroad","DMHS II","Dirt",2
+"1605","Voron AE-4380","Offroad","DMHS II","Mud",2
+"1606","Voron AE-4380","Offroad","DMHS III","Asphalt",0.5
+"1607","Voron AE-4380","Offroad","DMHS III","Dirt",2
+"1608","Voron AE-4380","Offroad","DMHS III","Mud",2
+"1609","Voron D-53233","Offroad","HMD I","Asphalt",3
+"1610","Voron D-53233","Offroad","HMD I","Dirt",1
+"1611","Voron D-53233","Offroad","HMD I","Mud",0.4
+"1612","Voron D-53233","Offroad","HMD II","Asphalt",3
+"1613","Voron D-53233","Offroad","HMD II","Dirt",1.2
+"1614","Voron D-53233","Offroad","HMD II","Mud",0.2
+"1615","Voron D-53233","Offroad","HMD III","Asphalt",3.2
+"1616","Voron D-53233","Offroad","HMD III","Dirt",1
+"1617","Voron D-53233","Offroad","HMD III","Mud",0.2
+"1618","Voron D-53233","Offroad","ATMD I","Asphalt",1.9
+"1619","Voron D-53233","Offroad","ATMD I","Dirt",1.5
+"1620","Voron D-53233","Offroad","ATMD I","Mud",1
+"1621","Voron D-53233","Offroad","ATMD II","Asphalt",1.5
+"1622","Voron D-53233","Offroad","ATMD II","Dirt",1.5
+"1623","Voron D-53233","Offroad","ATMD II","Mud",1.2
+"1624","Voron D-53233","Offroad","ATMD III","Asphalt",1.5
+"1625","Voron D-53233","Offroad","ATMD III","Dirt",1.7
+"1626","Voron D-53233","Offroad","ATMD III","Mud",1
+"1627","Voron D-53233","Offroad","ATHS I","Asphalt",1.5
+"1628","Voron D-53233","Offroad","ATHS I","Dirt",1.5
+"1629","Voron D-53233","Offroad","ATHS I","Mud",1.2
+"1630","Voron D-53233","Offroad","OHD I","Asphalt",0.8
+"1631","Voron D-53233","Offroad","OHD I","Dirt",3
+"1632","Voron D-53233","Offroad","OHD I","Mud",1.9
+"1633","Voron D-53233","Offroad","OHD II","Asphalt",0.8
+"1634","Voron D-53233","Offroad","OHD II","Dirt",3.2
+"1635","Voron D-53233","Offroad","OHD II","Mud",1.5
+"1636","Voron D-53233","Offroad","OHD III","Asphalt",1
+"1637","Voron D-53233","Offroad","OHD III","Dirt",3
+"1638","Voron D-53233","Offroad","OHD III","Mud",1.5
+"1639","Voron D-53233","Offroad","OHD II Chains","Asphalt",1.2
+"1640","Voron D-53233","Offroad","OHD II Chains","Dirt",3
+"1641","Voron D-53233","Offroad","OHD II Chains","Mud",1.3
+"1642","Voron D-53233","Offroad","OHS I","Asphalt",1
+"1643","Voron D-53233","Offroad","OHS I","Dirt",3
+"1644","Voron D-53233","Offroad","OHS I","Mud",1.5
+"1645","Voron D-53233","Offroad","OHS II","Asphalt",0.8
+"1646","Voron D-53233","Offroad","OHS II","Dirt",3
+"1647","Voron D-53233","Offroad","OHS II","Mud",1.8
+"1648","Voron D-53233","Offroad","MHS I","Asphalt",0.5
+"1649","Voron D-53233","Offroad","MHS I","Dirt",2
+"1650","Voron D-53233","Offroad","MHS I","Mud",2
+"1651","Voron D-53233","Offroad","MHS II","Asphalt",0.5
+"1652","Voron D-53233","Offroad","MHS II","Dirt",2
+"1653","Voron D-53233","Offroad","MHS II","Mud",2.4
+"1654","Voron D-53233","Offroad","MHS III","Asphalt",0.5
+"1655","Voron D-53233","Offroad","MHS III","Dirt",2.4
+"1656","Voron D-53233","Offroad","MHS III","Mud",2
+"1657","Voron D-53233","Offroad","MHS I Chains","Asphalt",1.2
+"1658","Voron D-53233","Offroad","MHS I Chains","Dirt",3
+"1659","Voron D-53233","Offroad","MHS I Chains","Mud",1.3
+"1660","Voron D-53233","Offroad","DMHS I","Asphalt",0.5
+"1661","Voron D-53233","Offroad","DMHS I","Dirt",2
+"1662","Voron D-53233","Offroad","DMHS I","Mud",2
+"1663","Voron D-53233","Offroad","DMHS II","Asphalt",0.5
+"1664","Voron D-53233","Offroad","DMHS II","Dirt",2
+"1665","Voron D-53233","Offroad","DMHS II","Mud",2
+"1666","Voron D-53233","Offroad","DMHS III","Asphalt",0.5
+"1667","Voron D-53233","Offroad","DMHS III","Dirt",2
+"1668","Voron D-53233","Offroad","DMHS III","Mud",2
+"1669","Voron Grad","Offroad","HMD I","Asphalt",3
+"1670","Voron Grad","Offroad","HMD I","Dirt",1
+"1671","Voron Grad","Offroad","HMD I","Mud",0.4
+"1672","Voron Grad","Offroad","HMD II","Asphalt",3
+"1673","Voron Grad","Offroad","HMD II","Dirt",1.2
+"1674","Voron Grad","Offroad","HMD II","Mud",0.2
+"1675","Voron Grad","Offroad","HMD III","Asphalt",3.2
+"1676","Voron Grad","Offroad","HMD III","Dirt",1
+"1677","Voron Grad","Offroad","HMD III","Mud",0.2
+"1678","Voron Grad","Offroad","ATMD I","Asphalt",1.9
+"1679","Voron Grad","Offroad","ATMD I","Dirt",1.5
+"1680","Voron Grad","Offroad","ATMD I","Mud",1
+"1681","Voron Grad","Offroad","ATMD II","Asphalt",1.5
+"1682","Voron Grad","Offroad","ATMD II","Dirt",1.5
+"1683","Voron Grad","Offroad","ATMD II","Mud",1.2
+"1684","Voron Grad","Offroad","ATMD III","Asphalt",1.5
+"1685","Voron Grad","Offroad","ATMD III","Dirt",1.7
+"1686","Voron Grad","Offroad","ATMD III","Mud",1
+"1687","Voron Grad","Offroad","ATHS I","Asphalt",1.5
+"1688","Voron Grad","Offroad","ATHS I","Dirt",1.5
+"1689","Voron Grad","Offroad","ATHS I","Mud",1.2
+"1690","Voron Grad","Offroad","OHD I","Asphalt",0.8
+"1691","Voron Grad","Offroad","OHD I","Dirt",3
+"1692","Voron Grad","Offroad","OHD I","Mud",1.9
+"1693","Voron Grad","Offroad","OHD II","Asphalt",0.8
+"1694","Voron Grad","Offroad","OHD II","Dirt",3.2
+"1695","Voron Grad","Offroad","OHD II","Mud",1.5
+"1696","Voron Grad","Offroad","OHD III","Asphalt",1
+"1697","Voron Grad","Offroad","OHD III","Dirt",3
+"1698","Voron Grad","Offroad","OHD III","Mud",1.5
+"1699","Voron Grad","Offroad","OHD II Chains","Asphalt",1.2
+"1700","Voron Grad","Offroad","OHD II Chains","Dirt",3
+"1701","Voron Grad","Offroad","OHD II Chains","Mud",1.3
+"1702","Voron Grad","Offroad","OHS I","Asphalt",1
+"1703","Voron Grad","Offroad","OHS I","Dirt",3
+"1704","Voron Grad","Offroad","OHS I","Mud",1.5
+"1705","Voron Grad","Offroad","OHS II","Asphalt",0.8
+"1706","Voron Grad","Offroad","OHS II","Dirt",3
+"1707","Voron Grad","Offroad","OHS II","Mud",1.8
+"1708","Voron Grad","Offroad","MHS I","Asphalt",0.5
+"1709","Voron Grad","Offroad","MHS I","Dirt",2
+"1710","Voron Grad","Offroad","MHS I","Mud",2
+"1711","Voron Grad","Offroad","MHS II","Asphalt",0.5
+"1712","Voron Grad","Offroad","MHS II","Dirt",2
+"1713","Voron Grad","Offroad","MHS II","Mud",2.4
+"1714","Voron Grad","Offroad","MHS III","Asphalt",0.5
+"1715","Voron Grad","Offroad","MHS III","Dirt",2.4
+"1716","Voron Grad","Offroad","MHS III","Mud",2
+"1717","Voron Grad","Offroad","MHS I Chains","Asphalt",1.2
+"1718","Voron Grad","Offroad","MHS I Chains","Dirt",3
+"1719","Voron Grad","Offroad","MHS I Chains","Mud",1.3
+"1720","Voron Grad","Offroad","DMHS I","Asphalt",0.5
+"1721","Voron Grad","Offroad","DMHS I","Dirt",2
+"1722","Voron Grad","Offroad","DMHS I","Mud",2
+"1723","Voron Grad","Offroad","DMHS II","Asphalt",0.5
+"1724","Voron Grad","Offroad","DMHS II","Dirt",2
+"1725","Voron Grad","Offroad","DMHS II","Mud",2
+"1726","Voron Grad","Offroad","DMHS III","Asphalt",0.5
+"1727","Voron Grad","Offroad","DMHS III","Dirt",2
+"1728","Voron Grad","Offroad","DMHS III","Mud",2
+"1729","ZiKZ 5368","Offroad","UHD I","Asphalt",3
+"1730","ZiKZ 5368","Offroad","UHD I","Dirt",1
+"1731","ZiKZ 5368","Offroad","UHD I","Mud",0.4
+"1732","ZiKZ 5368","Offroad","UHD II","Asphalt",3
+"1733","ZiKZ 5368","Offroad","UHD II","Dirt",1.2
+"1734","ZiKZ 5368","Offroad","UHD II","Mud",0.2
+"1735","ZiKZ 5368","Offroad","UHD III","Asphalt",3.2
+"1736","ZiKZ 5368","Offroad","UHD III","Dirt",1
+"1737","ZiKZ 5368","Offroad","UHD III","Mud",0.2
+"1738","ZiKZ 5368","Offroad","UAD I","Asphalt",1.9
+"1739","ZiKZ 5368","Offroad","UAD I","Dirt",1.5
+"1740","ZiKZ 5368","Offroad","UAD I","Mud",1
+"1741","ZiKZ 5368","Offroad","UAD II","Asphalt",1.5
+"1742","ZiKZ 5368","Offroad","UAD II","Dirt",1.5
+"1743","ZiKZ 5368","Offroad","UAD II","Mud",1.2
+"1744","ZiKZ 5368","Offroad","UAD III","Asphalt",1.5
+"1745","ZiKZ 5368","Offroad","UAD III","Dirt",1.7
+"1746","ZiKZ 5368","Offroad","UAD III","Mud",1
+"1747","ZiKZ 5368","Offroad","UAD III Chains","Asphalt",1.2
+"1748","ZiKZ 5368","Offroad","UAD III Chains","Dirt",3
+"1749","ZiKZ 5368","Offroad","UAD III Chains","Mud",1.3
+"1750","ZiKZ 5368","Offroad","UOD I","Asphalt",1
+"1751","ZiKZ 5368","Offroad","UOD I","Dirt",3
+"1752","ZiKZ 5368","Offroad","UOD I","Mud",1.5
+"1753","ZiKZ 5368","Offroad","UOD II","Asphalt",0.8
+"1754","ZiKZ 5368","Offroad","UOD II","Dirt",3
+"1755","ZiKZ 5368","Offroad","UOD II","Mud",1.9
+"1756","ZiKZ 5368","Offroad","UOD III","Asphalt",0.8
+"1757","ZiKZ 5368","Offroad","UOD III","Dirt",3.2
+"1758","ZiKZ 5368","Offroad","UOD III","Mud",1.5
+"1759","ZiKZ 5368","Offroad","AMHS I","Asphalt",0.5
+"1760","ZiKZ 5368","Offroad","AMHS I","Dirt",2
+"1761","ZiKZ 5368","Offroad","AMHS I","Mud",2.4
+"1762","Caterpillar TH357","Scout","TH357 Tires","Asphalt",0.5
+"1763","Caterpillar TH357","Scout","TH357 Tires","Dirt",1.7
+"1764","Caterpillar TH357","Scout","TH357 Tires","Mud",3
+"1765","Chevrolet Apache","Scout","AS I","Asphalt",1
+"1766","Chevrolet Apache","Scout","AS I","Dirt",1.4
+"1767","Chevrolet Apache","Scout","AS I","Mud",1
+"1768","Chevrolet Apache","Scout","AS II","Asphalt",1
+"1769","Chevrolet Apache","Scout","AS II","Dirt",1
+"1770","Chevrolet Apache","Scout","AS II","Mud",1.2
+"1771","Chevrolet Apache","Scout","AS III","Asphalt",1.2
+"1772","Chevrolet Apache","Scout","AS III","Dirt",1
+"1773","Chevrolet Apache","Scout","AS III","Mud",1
+"1774","Chevrolet Apache","Scout","TO I (Apache)","Asphalt",1
+"1775","Chevrolet Apache","Scout","TO I (Apache)","Dirt",2
+"1776","Chevrolet Apache","Scout","TO I (Apache)","Mud",1.2
+"1777","Chevrolet Apache","Scout","MS I","Asphalt",0.5
+"1778","Chevrolet Apache","Scout","MS I","Dirt",3
+"1779","Chevrolet Apache","Scout","MS I","Mud",1.6
+"1780","Chevrolet Apache","Scout","CS I","Asphalt",0.9
+"1781","Chevrolet Apache","Scout","CS I","Dirt",2
+"1782","Chevrolet Apache","Scout","CS I","Mud",1.1
+"1783","Chevrolet CK1500","Scout","HS I","Asphalt",2
+"1784","Chevrolet CK1500","Scout","HS I","Dirt",0.8
+"1785","Chevrolet CK1500","Scout","HS I","Mud",0.4
+"1786","Chevrolet CK1500","Scout","HS II","Asphalt",2
+"1787","Chevrolet CK1500","Scout","HS II","Dirt",1
+"1788","Chevrolet CK1500","Scout","HS II","Mud",0.2
+"1789","Chevrolet CK1500","Scout","HS III","Asphalt",2.5
+"1790","Chevrolet CK1500","Scout","HS III","Dirt",0.8
+"1791","Chevrolet CK1500","Scout","HS III","Mud",0.2
+"1792","Chevrolet CK1500","Scout","AS I","Asphalt",1
+"1793","Chevrolet CK1500","Scout","AS I","Dirt",1.4
+"1794","Chevrolet CK1500","Scout","AS I","Mud",1
+"1795","Chevrolet CK1500","Scout","AS II","Asphalt",1
+"1796","Chevrolet CK1500","Scout","AS II","Dirt",1
+"1797","Chevrolet CK1500","Scout","AS II","Mud",1.2
+"1798","Chevrolet CK1500","Scout","AS III","Asphalt",1.2
+"1799","Chevrolet CK1500","Scout","AS III","Dirt",1
+"1800","Chevrolet CK1500","Scout","AS III","Mud",1
+"1801","Chevrolet CK1500","Scout","OS I","Asphalt",1
+"1802","Chevrolet CK1500","Scout","OS I","Dirt",2
+"1803","Chevrolet CK1500","Scout","OS I","Mud",1.2
+"1804","Chevrolet CK1500","Scout","MS I","Asphalt",0.5
+"1805","Chevrolet CK1500","Scout","MS I","Dirt",3
+"1806","Chevrolet CK1500","Scout","MS I","Mud",1.6
+"1807","Chevrolet CK1500","Scout","CS I","Asphalt",0.9
+"1808","Chevrolet CK1500","Scout","CS I","Dirt",2
+"1809","Chevrolet CK1500","Scout","CS I","Mud",1.1
+"1810","DON 71","Scout","HS I","Asphalt",2
+"1811","DON 71","Scout","HS I","Dirt",0.8
+"1812","DON 71","Scout","HS I","Mud",0.4
+"1813","DON 71","Scout","HS II","Asphalt",2
+"1814","DON 71","Scout","HS II","Dirt",1
+"1815","DON 71","Scout","HS II","Mud",0.2
+"1816","DON 71","Scout","HS III","Asphalt",2.5
+"1817","DON 71","Scout","HS III","Dirt",0.8
+"1818","DON 71","Scout","HS III","Mud",0.2
+"1819","DON 71","Scout","AS I","Asphalt",1
+"1820","DON 71","Scout","AS I","Dirt",1.4
+"1821","DON 71","Scout","AS I","Mud",1
+"1822","DON 71","Scout","AS II","Asphalt",1
+"1823","DON 71","Scout","AS II","Dirt",1
+"1824","DON 71","Scout","AS II","Mud",1.2
+"1825","DON 71","Scout","AS III","Asphalt",1.2
+"1826","DON 71","Scout","AS III","Dirt",1
+"1827","DON 71","Scout","AS III","Mud",1
+"1828","DON 71","Scout","OS I","Asphalt",1
+"1829","DON 71","Scout","OS I","Dirt",2
+"1830","DON 71","Scout","OS I","Mud",1.2
+"1831","DON 71","Scout","MS I","Asphalt",0.5
+"1832","DON 71","Scout","MS I","Dirt",3
+"1833","DON 71","Scout","MS I","Mud",1.6
+"1834","DON 71","Scout","CS I","Asphalt",0.9
+"1835","DON 71","Scout","CS I","Dirt",2
+"1836","DON 71","Scout","CS I","Mud",1.1
+"1837","Ford F 750","Scout","FHMD I","Asphalt",3
+"1838","Ford F 750","Scout","FHMD I","Dirt",1
+"1839","Ford F 750","Scout","FHMD I","Mud",0.4
+"1840","Ford F 750","Scout","UOD I","Asphalt",1
+"1841","Ford F 750","Scout","UOD I","Dirt",3
+"1842","Ford F 750","Scout","UOD I","Mud",1.5
+"1843","Ford F 750","Scout","UOD II","Asphalt",0.8
+"1844","Ford F 750","Scout","UOD II","Dirt",3
+"1845","Ford F 750","Scout","UOD II","Mud",1.9
+"1846","Ford F 750","Scout","UOD III","Asphalt",0.8
+"1847","Ford F 750","Scout","UOD III","Dirt",3.2
+"1848","Ford F 750","Scout","UOD III","Mud",1.5
+"1849","Ford F 750","Scout","UAD III Chains","Asphalt",1.2
+"1850","Ford F 750","Scout","UAD III Chains","Dirt",3
+"1851","Ford F 750","Scout","UAD III Chains","Mud",1.3
+"1852","Gor BY-4","Scout","HS I","Asphalt",2
+"1853","Gor BY-4","Scout","HS I","Dirt",0.8
+"1854","Gor BY-4","Scout","HS I","Mud",0.4
+"1855","Gor BY-4","Scout","HS II","Asphalt",2
+"1856","Gor BY-4","Scout","HS II","Dirt",1
+"1857","Gor BY-4","Scout","HS II","Mud",0.2
+"1858","Gor BY-4","Scout","HS III","Asphalt",2.5
+"1859","Gor BY-4","Scout","HS III","Dirt",0.8
+"1860","Gor BY-4","Scout","HS III","Mud",0.2
+"1861","Gor BY-4","Scout","AS I","Asphalt",1
+"1862","Gor BY-4","Scout","AS I","Dirt",1.4
+"1863","Gor BY-4","Scout","AS I","Mud",1
+"1864","Gor BY-4","Scout","AS II","Asphalt",1
+"1865","Gor BY-4","Scout","AS II","Dirt",1
+"1866","Gor BY-4","Scout","AS II","Mud",1.2
+"1867","Gor BY-4","Scout","AS III","Asphalt",1.2
+"1868","Gor BY-4","Scout","AS III","Dirt",1
+"1869","Gor BY-4","Scout","AS III","Mud",1
+"1870","Gor BY-4","Scout","OG I","Asphalt",0.8
+"1871","Gor BY-4","Scout","OG I","Dirt",3
+"1872","Gor BY-4","Scout","OG I","Mud",2.1
+"1873","Gor BY-4","Scout","MS I","Asphalt",0.5
+"1874","Gor BY-4","Scout","MS I","Dirt",3
+"1875","Gor BY-4","Scout","MS I","Mud",1.6
+"1876","Gor BY-4","Scout","CS I","Asphalt",0.9
+"1877","Gor BY-4","Scout","CS I","Dirt",2
+"1878","Gor BY-4","Scout","CS I","Mud",1.1
+"1879","Hummer H2","Scout","HS I","Asphalt",2
+"1880","Hummer H2","Scout","HS I","Dirt",0.8
+"1881","Hummer H2","Scout","HS I","Mud",0.4
+"1882","Hummer H2","Scout","HS II","Asphalt",2
+"1883","Hummer H2","Scout","HS II","Dirt",1
+"1884","Hummer H2","Scout","HS II","Mud",0.2
+"1885","Hummer H2","Scout","HS III","Asphalt",2.5
+"1886","Hummer H2","Scout","HS III","Dirt",0.8
+"1887","Hummer H2","Scout","HS III","Mud",0.2
+"1888","Hummer H2","Scout","AS I","Asphalt",1
+"1889","Hummer H2","Scout","AS I","Dirt",1.4
+"1890","Hummer H2","Scout","AS I","Mud",1
+"1891","Hummer H2","Scout","AS II","Asphalt",1
+"1892","Hummer H2","Scout","AS II","Dirt",1
+"1893","Hummer H2","Scout","AS II","Mud",1.2
+"1894","Hummer H2","Scout","AS III","Asphalt",1.2
+"1895","Hummer H2","Scout","AS III","Dirt",1
+"1896","Hummer H2","Scout","AS III","Mud",1
+"1897","Hummer H2","Scout","OS I","Asphalt",1
+"1898","Hummer H2","Scout","OS I","Dirt",2
+"1899","Hummer H2","Scout","OS I","Mud",1.2
+"1900","Hummer H2","Scout","H2 Tires","Asphalt",3
+"1901","Hummer H2","Scout","H2 Tires","Dirt",2
+"1902","Hummer H2","Scout","H2 Tires","Mud",1.2
+"1903","Hummer H2","Scout","MS I","Asphalt",0.5
+"1904","Hummer H2","Scout","MS I","Dirt",3
+"1905","Hummer H2","Scout","MS I","Mud",1.6
+"1906","Hummer H2","Scout","CS I","Asphalt",0.9
+"1907","Hummer H2","Scout","CS I","Dirt",2
+"1908","Hummer H2","Scout","CS I","Mud",1.1
+"1909","International Loadstar 1700","Scout","UHD I","Asphalt",3
+"1910","International Loadstar 1700","Scout","UHD I","Dirt",1
+"1911","International Loadstar 1700","Scout","UHD I","Mud",0.4
+"1912","International Loadstar 1700","Scout","UHD II","Asphalt",3
+"1913","International Loadstar 1700","Scout","UHD II","Dirt",1.2
+"1914","International Loadstar 1700","Scout","UHD II","Mud",0.2
+"1915","International Loadstar 1700","Scout","UHD III","Asphalt",3.2
+"1916","International Loadstar 1700","Scout","UHD III","Dirt",1
+"1917","International Loadstar 1700","Scout","UHD III","Mud",0.2
+"1918","International Loadstar 1700","Scout","UAD I","Asphalt",1.9
+"1919","International Loadstar 1700","Scout","UAD I","Dirt",1.5
+"1920","International Loadstar 1700","Scout","UAD I","Mud",1
+"1921","International Loadstar 1700","Scout","UAD II","Asphalt",1.5
+"1922","International Loadstar 1700","Scout","UAD II","Dirt",1.5
+"1923","International Loadstar 1700","Scout","UAD II","Mud",1.2
+"1924","International Loadstar 1700","Scout","UAD III","Asphalt",1.5
+"1925","International Loadstar 1700","Scout","UAD III","Dirt",1.7
+"1926","International Loadstar 1700","Scout","UAD III","Mud",1
+"1927","International Loadstar 1700","Scout","UAD III Chains","Asphalt",1.2
+"1928","International Loadstar 1700","Scout","UAD III Chains","Dirt",3
+"1929","International Loadstar 1700","Scout","UAD III Chains","Mud",1.3
+"1930","International Loadstar 1700","Scout","UOD I","Asphalt",1
+"1931","International Loadstar 1700","Scout","UOD I","Dirt",3
+"1932","International Loadstar 1700","Scout","UOD I","Mud",1.5
+"1933","International Loadstar 1700","Scout","UOD II","Asphalt",0.8
+"1934","International Loadstar 1700","Scout","UOD II","Dirt",3
+"1935","International Loadstar 1700","Scout","UOD II","Mud",1.9
+"1936","International Loadstar 1700","Scout","UOD III","Asphalt",0.8
+"1937","International Loadstar 1700","Scout","UOD III","Dirt",3.2
+"1938","International Loadstar 1700","Scout","UOD III","Mud",1.5
+"1939","Jeep CJ7 Renegade","Scout","HS I","Asphalt",2
+"1940","Jeep CJ7 Renegade","Scout","HS I","Dirt",0.8
+"1941","Jeep CJ7 Renegade","Scout","HS I","Mud",0.4
+"1942","Jeep CJ7 Renegade","Scout","HS II","Asphalt",2
+"1943","Jeep CJ7 Renegade","Scout","HS II","Dirt",1
+"1944","Jeep CJ7 Renegade","Scout","HS II","Mud",0.2
+"1945","Jeep CJ7 Renegade","Scout","HS III","Asphalt",2.5
+"1946","Jeep CJ7 Renegade","Scout","HS III","Dirt",0.8
+"1947","Jeep CJ7 Renegade","Scout","HS III","Mud",0.2
+"1948","Jeep CJ7 Renegade","Scout","AS I","Asphalt",1
+"1949","Jeep CJ7 Renegade","Scout","AS I","Dirt",1.4
+"1950","Jeep CJ7 Renegade","Scout","AS I","Mud",1
+"1951","Jeep CJ7 Renegade","Scout","AS II","Asphalt",1
+"1952","Jeep CJ7 Renegade","Scout","AS II","Dirt",1
+"1953","Jeep CJ7 Renegade","Scout","AS II","Mud",1.2
+"1954","Jeep CJ7 Renegade","Scout","AS III","Asphalt",1.2
+"1955","Jeep CJ7 Renegade","Scout","AS III","Dirt",1
+"1956","Jeep CJ7 Renegade","Scout","AS III","Mud",1
+"1957","Jeep CJ7 Renegade","Scout","OS I","Asphalt",1
+"1958","Jeep CJ7 Renegade","Scout","OS I","Dirt",2
+"1959","Jeep CJ7 Renegade","Scout","OS I","Mud",1.2
+"1960","Jeep CJ7 Renegade","Scout","OJ 1 (Jeep)","Asphalt",3
+"1961","Jeep CJ7 Renegade","Scout","OJ 1 (Jeep)","Dirt",2
+"1962","Jeep CJ7 Renegade","Scout","OJ 1 (Jeep)","Mud",1.2
+"1963","Jeep CJ7 Renegade","Scout","MS I","Asphalt",0.5
+"1964","Jeep CJ7 Renegade","Scout","MS I","Dirt",3
+"1965","Jeep CJ7 Renegade","Scout","MS I","Mud",1.6
+"1966","Jeep CJ7 Renegade","Scout","CS I","Asphalt",0.9
+"1967","Jeep CJ7 Renegade","Scout","CS I","Dirt",2
+"1968","Jeep CJ7 Renegade","Scout","CS I","Mud",1.1
+"1969","Jeep Wrangler","Scout","HS I","Asphalt",2
+"1970","Jeep Wrangler","Scout","HS I","Dirt",0.8
+"1971","Jeep Wrangler","Scout","HS I","Mud",0.4
+"1972","Jeep Wrangler","Scout","HS II","Asphalt",2
+"1973","Jeep Wrangler","Scout","HS II","Dirt",1
+"1974","Jeep Wrangler","Scout","HS II","Mud",0.2
+"1975","Jeep Wrangler","Scout","HS III","Asphalt",2.5
+"1976","Jeep Wrangler","Scout","HS III","Dirt",0.8
+"1977","Jeep Wrangler","Scout","HS III","Mud",0.2
+"1978","Jeep Wrangler","Scout","AS I","Asphalt",1
+"1979","Jeep Wrangler","Scout","AS I","Dirt",1.4
+"1980","Jeep Wrangler","Scout","AS I","Mud",1
+"1981","Jeep Wrangler","Scout","AS II","Asphalt",1
+"1982","Jeep Wrangler","Scout","AS II","Dirt",1
+"1983","Jeep Wrangler","Scout","AS II","Mud",1.2
+"1984","Jeep Wrangler","Scout","AS III","Asphalt",1.2
+"1985","Jeep Wrangler","Scout","AS III","Dirt",1
+"1986","Jeep Wrangler","Scout","AS III","Mud",1
+"1987","Jeep Wrangler","Scout","OS I","Asphalt",1
+"1988","Jeep Wrangler","Scout","OS I","Dirt",2
+"1989","Jeep Wrangler","Scout","OS I","Mud",1.2
+"1990","Jeep Wrangler","Scout","OJ 1 (Jeep)","Asphalt",3
+"1991","Jeep Wrangler","Scout","OJ 1 (Jeep)","Dirt",2
+"1992","Jeep Wrangler","Scout","OJ 1 (Jeep)","Mud",1.2
+"1993","Jeep Wrangler","Scout","MS I","Asphalt",0.5
+"1994","Jeep Wrangler","Scout","MS I","Dirt",3
+"1995","Jeep Wrangler","Scout","MS I","Mud",1.6
+"1996","Jeep Wrangler","Scout","CS I","Asphalt",0.9
+"1997","Jeep Wrangler","Scout","CS I","Dirt",2
+"1998","Jeep Wrangler","Scout","CS I","Mud",1.1
+"1999","KHAN 317 Sentinel","Scout","HS I","Asphalt",2
+"2000","KHAN 317 Sentinel","Scout","HS I","Dirt",0.8
+"2001","KHAN 317 Sentinel","Scout","HS I","Mud",0.4
+"2002","KHAN 317 Sentinel","Scout","HS II","Asphalt",2
+"2003","KHAN 317 Sentinel","Scout","HS II","Dirt",1
+"2004","KHAN 317 Sentinel","Scout","HS II","Mud",0.2
+"2005","KHAN 317 Sentinel","Scout","HS III","Asphalt",2.5
+"2006","KHAN 317 Sentinel","Scout","HS III","Dirt",0.8
+"2007","KHAN 317 Sentinel","Scout","HS III","Mud",0.2
+"2008","KHAN 317 Sentinel","Scout","AS I","Asphalt",1
+"2009","KHAN 317 Sentinel","Scout","AS I","Dirt",1.4
+"2010","KHAN 317 Sentinel","Scout","AS I","Mud",1
+"2011","KHAN 317 Sentinel","Scout","AS II","Asphalt",1
+"2012","KHAN 317 Sentinel","Scout","AS II","Dirt",1
+"2013","KHAN 317 Sentinel","Scout","AS II","Mud",1.2
+"2014","KHAN 317 Sentinel","Scout","AS III","Asphalt",1.2
+"2015","KHAN 317 Sentinel","Scout","AS III","Dirt",1
+"2016","KHAN 317 Sentinel","Scout","AS III","Mud",1
+"2017","KHAN 317 Sentinel","Scout","OS I","Asphalt",1
+"2018","KHAN 317 Sentinel","Scout","OS I","Dirt",2
+"2019","KHAN 317 Sentinel","Scout","OS I","Mud",1.2
+"2020","KHAN 317 Sentinel","Scout","MS I","Asphalt",0.5
+"2021","KHAN 317 Sentinel","Scout","MS I","Dirt",3
+"2022","KHAN 317 Sentinel","Scout","MS I","Mud",1.6
+"2023","KHAN 317 Sentinel","Scout","CS I","Asphalt",0.9
+"2024","KHAN 317 Sentinel","Scout","CS I","Dirt",2
+"2025","KHAN 317 Sentinel","Scout","CS I","Mud",1.1
+"2026","KHAN 39 Marshall","Scout","TM I","Asphalt",0.5
+"2027","KHAN 39 Marshall","Scout","TM I","Dirt",2.4
+"2028","KHAN 39 Marshall","Scout","TM I","Mud",2
+"2029","KHAN 39 Marshall","Scout","TM II","Asphalt",0.5
+"2030","KHAN 39 Marshall","Scout","TM II","Dirt",2
+"2031","KHAN 39 Marshall","Scout","TM II","Mud",2.4
+"2032","KHAN Lo4F","Scout","HS I","Asphalt",2
+"2033","KHAN Lo4F","Scout","HS I","Dirt",0.8
+"2034","KHAN Lo4F","Scout","HS I","Mud",0.4
+"2035","KHAN Lo4F","Scout","HS II","Asphalt",2
+"2036","KHAN Lo4F","Scout","HS II","Dirt",1
+"2037","KHAN Lo4F","Scout","HS II","Mud",0.2
+"2038","KHAN Lo4F","Scout","HS III","Asphalt",2.5
+"2039","KHAN Lo4F","Scout","HS III","Dirt",0.8
+"2040","KHAN Lo4F","Scout","HS III","Mud",0.2
+"2041","KHAN Lo4F","Scout","AS I","Asphalt",1
+"2042","KHAN Lo4F","Scout","AS I","Dirt",1.4
+"2043","KHAN Lo4F","Scout","AS I","Mud",1
+"2044","KHAN Lo4F","Scout","AS II","Asphalt",1
+"2045","KHAN Lo4F","Scout","AS II","Dirt",1
+"2046","KHAN Lo4F","Scout","AS II","Mud",1.2
+"2047","KHAN Lo4F","Scout","AS III","Asphalt",1.2
+"2048","KHAN Lo4F","Scout","AS III","Dirt",1
+"2049","KHAN Lo4F","Scout","AS III","Mud",1
+"2050","KHAN Lo4F","Scout","OS I","Asphalt",1
+"2051","KHAN Lo4F","Scout","OS I","Dirt",2
+"2052","KHAN Lo4F","Scout","OS I","Mud",1.2
+"2053","KHAN Lo4F","Scout","MS I","Asphalt",0.5
+"2054","KHAN Lo4F","Scout","MS I","Dirt",3
+"2055","KHAN Lo4F","Scout","MS I","Mud",1.6
+"2056","KHAN Lo4F","Scout","CS I","Asphalt",0.9
+"2057","KHAN Lo4F","Scout","CS I","Dirt",2
+"2058","KHAN Lo4F","Scout","CS I","Mud",1.1
+"2059","Land Rover Defender 110","Scout","HS I","Asphalt",2
+"2060","Land Rover Defender 110","Scout","HS I","Dirt",0.8
+"2061","Land Rover Defender 110","Scout","HS I","Mud",0.4
+"2062","Land Rover Defender 110","Scout","HS II","Asphalt",2
+"2063","Land Rover Defender 110","Scout","HS II","Dirt",1
+"2064","Land Rover Defender 110","Scout","HS II","Mud",0.2
+"2065","Land Rover Defender 110","Scout","HS III","Asphalt",2.5
+"2066","Land Rover Defender 110","Scout","HS III","Dirt",0.8
+"2067","Land Rover Defender 110","Scout","HS III","Mud",0.2
+"2068","Land Rover Defender 110","Scout","AS I","Asphalt",1
+"2069","Land Rover Defender 110","Scout","AS I","Dirt",1.4
+"2070","Land Rover Defender 110","Scout","AS I","Mud",1
+"2071","Land Rover Defender 110","Scout","AS II","Asphalt",1
+"2072","Land Rover Defender 110","Scout","AS II","Dirt",1
+"2073","Land Rover Defender 110","Scout","AS II","Mud",1.2
+"2074","Land Rover Defender 110","Scout","AS III","Asphalt",1.2
+"2075","Land Rover Defender 110","Scout","AS III","Dirt",1
+"2076","Land Rover Defender 110","Scout","AS III","Mud",1
+"2077","Land Rover Defender 110","Scout","OS I","Asphalt",1
+"2078","Land Rover Defender 110","Scout","OS I","Dirt",2
+"2079","Land Rover Defender 110","Scout","OS I","Mud",1.2
+"2080","Land Rover Defender 110","Scout","Land Rover","Asphalt",3
+"2081","Land Rover Defender 110","Scout","Land Rover","Dirt",2
+"2082","Land Rover Defender 110","Scout","Land Rover","Mud",1.2
+"2083","Land Rover Defender 110","Scout","MS I","Asphalt",0.5
+"2084","Land Rover Defender 110","Scout","MS I","Dirt",3
+"2085","Land Rover Defender 110","Scout","MS I","Mud",1.6
+"2086","Land Rover Defender 110","Scout","CS I","Asphalt",0.9
+"2087","Land Rover Defender 110","Scout","CS I","Dirt",2
+"2088","Land Rover Defender 110","Scout","CS I","Mud",1.1
+"2089","Land Rover Defender 90","Scout","HS I","Asphalt",2
+"2090","Land Rover Defender 90","Scout","HS I","Dirt",0.8
+"2091","Land Rover Defender 90","Scout","HS I","Mud",0.4
+"2092","Land Rover Defender 90","Scout","HS II","Asphalt",2
+"2093","Land Rover Defender 90","Scout","HS II","Dirt",1
+"2094","Land Rover Defender 90","Scout","HS II","Mud",0.2
+"2095","Land Rover Defender 90","Scout","HS III","Asphalt",2.5
+"2096","Land Rover Defender 90","Scout","HS III","Dirt",0.8
+"2097","Land Rover Defender 90","Scout","HS III","Mud",0.2
+"2098","Land Rover Defender 90","Scout","AS I","Asphalt",1
+"2099","Land Rover Defender 90","Scout","AS I","Dirt",1.4
+"2100","Land Rover Defender 90","Scout","AS I","Mud",1
+"2101","Land Rover Defender 90","Scout","AS II","Asphalt",1
+"2102","Land Rover Defender 90","Scout","AS II","Dirt",1
+"2103","Land Rover Defender 90","Scout","AS II","Mud",1.2
+"2104","Land Rover Defender 90","Scout","AS III","Asphalt",1.2
+"2105","Land Rover Defender 90","Scout","AS III","Dirt",1
+"2106","Land Rover Defender 90","Scout","AS III","Mud",1
+"2107","Land Rover Defender 90","Scout","OS I","Asphalt",1
+"2108","Land Rover Defender 90","Scout","OS I","Dirt",2
+"2109","Land Rover Defender 90","Scout","OS I","Mud",1.2
+"2110","Land Rover Defender 90","Scout","Land Rover","Asphalt",3
+"2111","Land Rover Defender 90","Scout","Land Rover","Dirt",2
+"2112","Land Rover Defender 90","Scout","Land Rover","Mud",1.2
+"2113","Land Rover Defender 90","Scout","MS I","Asphalt",0.5
+"2114","Land Rover Defender 90","Scout","MS I","Dirt",3
+"2115","Land Rover Defender 90","Scout","MS I","Mud",1.6
+"2116","Land Rover Defender 90","Scout","CS I","Asphalt",0.9
+"2117","Land Rover Defender 90","Scout","CS I","Dirt",2
+"2118","Land Rover Defender 90","Scout","CS I","Mud",1.1
+"2119","Rezvani Hercules 6x6","Scout","HS I","Asphalt",2
+"2120","Rezvani Hercules 6x6","Scout","HS I","Dirt",0.8
+"2121","Rezvani Hercules 6x6","Scout","HS I","Mud",0.4
+"2122","Rezvani Hercules 6x6","Scout","HS II","Asphalt",2
+"2123","Rezvani Hercules 6x6","Scout","HS II","Dirt",1
+"2124","Rezvani Hercules 6x6","Scout","HS II","Mud",0.2
+"2125","Rezvani Hercules 6x6","Scout","HS III","Asphalt",2.5
+"2126","Rezvani Hercules 6x6","Scout","HS III","Dirt",0.8
+"2127","Rezvani Hercules 6x6","Scout","HS III","Mud",0.2
+"2128","Rezvani Hercules 6x6","Scout","AS I","Asphalt",1
+"2129","Rezvani Hercules 6x6","Scout","AS I","Dirt",1.4
+"2130","Rezvani Hercules 6x6","Scout","AS I","Mud",1
+"2131","Rezvani Hercules 6x6","Scout","AS II","Asphalt",1
+"2132","Rezvani Hercules 6x6","Scout","AS II","Dirt",1
+"2133","Rezvani Hercules 6x6","Scout","AS II","Mud",1.2
+"2134","Rezvani Hercules 6x6","Scout","AS III","Asphalt",1.2
+"2135","Rezvani Hercules 6x6","Scout","AS III","Dirt",1
+"2136","Rezvani Hercules 6x6","Scout","AS III","Mud",1
+"2137","Rezvani Hercules 6x6","Scout","OS I","Asphalt",1
+"2138","Rezvani Hercules 6x6","Scout","OS I","Dirt",2
+"2139","Rezvani Hercules 6x6","Scout","OS I","Mud",1.2
+"2140","Rezvani Hercules 6x6","Scout","Rezvani Tires","Asphalt",3
+"2141","Rezvani Hercules 6x6","Scout","Rezvani Tires","Dirt",2
+"2142","Rezvani Hercules 6x6","Scout","Rezvani Tires","Mud",1.2
+"2143","Rezvani Hercules 6x6","Scout","MS I","Asphalt",0.5
+"2144","Rezvani Hercules 6x6","Scout","MS I","Dirt",3
+"2145","Rezvani Hercules 6x6","Scout","MS I","Mud",1.6
+"2146","Rezvani Hercules 6x6","Scout","CS I","Asphalt",0.9
+"2147","Rezvani Hercules 6x6","Scout","CS I","Dirt",2
+"2148","Rezvani Hercules 6x6","Scout","CS I","Mud",1.1
+"2149","Scout 800","Scout","HS I","Asphalt",2
+"2150","Scout 800","Scout","HS I","Dirt",0.8
+"2151","Scout 800","Scout","HS I","Mud",0.4
+"2152","Scout 800","Scout","HS II","Asphalt",2
+"2153","Scout 800","Scout","HS II","Dirt",1
+"2154","Scout 800","Scout","HS II","Mud",0.2
+"2155","Scout 800","Scout","HS III","Asphalt",2.5
+"2156","Scout 800","Scout","HS III","Dirt",0.8
+"2157","Scout 800","Scout","HS III","Mud",0.2
+"2158","Scout 800","Scout","AS I","Asphalt",1
+"2159","Scout 800","Scout","AS I","Dirt",1.4
+"2160","Scout 800","Scout","AS I","Mud",1
+"2161","Scout 800","Scout","AS II","Asphalt",1
+"2162","Scout 800","Scout","AS II","Dirt",1
+"2163","Scout 800","Scout","AS II","Mud",1.2
+"2164","Scout 800","Scout","AS III","Asphalt",1.2
+"2165","Scout 800","Scout","AS III","Dirt",1
+"2166","Scout 800","Scout","AS III","Mud",1
+"2167","Scout 800","Scout","OS I","Asphalt",1
+"2168","Scout 800","Scout","OS I","Dirt",2
+"2169","Scout 800","Scout","OS I","Mud",1.2
+"2170","Scout 800","Scout","MS I","Asphalt",0.5
+"2171","Scout 800","Scout","MS I","Dirt",3
+"2172","Scout 800","Scout","MS I","Mud",1.6
+"2173","Scout 800","Scout","CS I","Asphalt",0.9
+"2174","Scout 800","Scout","CS I","Dirt",2
+"2175","Scout 800","Scout","CS I","Mud",1.1
+"2176","TUZ 166","Scout","HS I","Asphalt",2
+"2177","TUZ 166","Scout","HS I","Dirt",0.8
+"2178","TUZ 166","Scout","HS I","Mud",0.4
+"2179","TUZ 166","Scout","HS II","Asphalt",2
+"2180","TUZ 166","Scout","HS II","Dirt",1
+"2181","TUZ 166","Scout","HS II","Mud",0.2
+"2182","TUZ 166","Scout","HS III","Asphalt",2.5
+"2183","TUZ 166","Scout","HS III","Dirt",0.8
+"2184","TUZ 166","Scout","HS III","Mud",0.2
+"2185","TUZ 166","Scout","AS I","Asphalt",1
+"2186","TUZ 166","Scout","AS I","Dirt",1.4
+"2187","TUZ 166","Scout","AS I","Mud",1
+"2188","TUZ 166","Scout","AS II","Asphalt",1
+"2189","TUZ 166","Scout","AS II","Dirt",1
+"2190","TUZ 166","Scout","AS II","Mud",1.2
+"2191","TUZ 166","Scout","AS III","Asphalt",1.2
+"2192","TUZ 166","Scout","AS III","Dirt",1
+"2193","TUZ 166","Scout","AS III","Mud",1
+"2194","TUZ 166","Scout","OS I","Asphalt",1
+"2195","TUZ 166","Scout","OS I","Dirt",2
+"2196","TUZ 166","Scout","OS I","Mud",1.2
+"2197","TUZ 166","Scout","MS I","Asphalt",0.5
+"2198","TUZ 166","Scout","MS I","Dirt",3
+"2199","TUZ 166","Scout","MS I","Mud",1.6
+"2200","TUZ 166","Scout","CS I","Asphalt",0.9
+"2201","TUZ 166","Scout","CS I","Dirt",2
+"2202","TUZ 166","Scout","CS I","Mud",1.1
+"2203","TUZ 420 ""Tatarin""","Scout","TO I (TUZ 420)","Asphalt",0.5
+"2204","TUZ 420 ""Tatarin""","Scout","TO I (TUZ 420)","Dirt",3
+"2205","TUZ 420 ""Tatarin""","Scout","TO I (TUZ 420)","Mud",8
+"2206","YAR 87","Scout","TrAT I","Asphalt",1.5
+"2207","YAR 87","Scout","TrAT I","Dirt",1.5
+"2208","YAR 87","Scout","TrAT I","Mud",1
+"2209","YAR 87","Scout","TrO I","Asphalt",0.8
+"2210","YAR 87","Scout","TrO I","Dirt",3
+"2211","YAR 87","Scout","TrO I","Mud",1.5
+"2212","YAR 87","Scout","TM I","Asphalt",0.5
+"2213","YAR 87","Scout","TM I","Dirt",2.4
+"2214","YAR 87","Scout","TM I","Mud",2
+"2215","YAR 87","Scout","TM II","Asphalt",0.5
+"2216","YAR 87","Scout","TM II","Dirt",2
+"2217","YAR 87","Scout","TM II","Mud",2.4
+"2218","YAR 87","Scout","TrM I","Asphalt",0.5
+"2219","YAR 87","Scout","TrM I","Dirt",2
+"2220","YAR 87","Scout","TrM I","Mud",2
+"2221","YAR 87","Scout","TrC I","Asphalt",1.2
+"2222","YAR 87","Scout","TrC I","Dirt",3
+"2223","YAR 87","Scout","TrC I","Mud",1.3
